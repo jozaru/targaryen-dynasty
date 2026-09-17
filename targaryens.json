@@ -1,0 +1,2905 @@
+[
+  {
+    "id": "aenar_targaryen",
+    "birth_year": -150,
+    "death_year": -100,
+    "parents": [],
+    "spouses": [],
+    "children": ["daenys_targaryen", "gaemon_targaryen"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Aenar Targaryen",
+      "aliases": ["Aenar the Exile"],
+      "titles": ["Lord of Dragonstone"],
+      "era": "Pre-Conquest",
+      "biography": "A minor dragonlord of the Valyrian Freehold. When his daughter Daenys foresaw the destruction of Valyria, Aenar sold his holdings and moved his entire family, wealth, and five dragons to Dragonstone twelve years before the Doom.",
+      "tags": ["Lord", "Exile", "Valyrian"]
+    },
+    "es": {
+      "name": "Aenar Targaryen",
+      "aliases": ["Aenar el Exiliado"],
+      "titles": ["Señor de Rocadragón"],
+      "era": "Pre-Conquista",
+      "biography": "Un señor de dragones menor del Feudo Franco de Valyria. Cuando su hija Daenys profetizó la destrucción de Valyria, Aenar vendió sus propiedades y trasladó a toda su familia, riqueza y cinco dragones a Rocadragón doce años antes de la Maldición.",
+      "tags": ["Señor", "Exiliado", "Valyrio"]
+    }
+  },
+  {
+    "id": "daenys_targaryen",
+    "birth_year": -130,
+    "death_year": -80,
+    "parents": ["aenar_targaryen"],
+    "spouses": ["gaemon_targaryen"],
+    "children": ["aegon_targaryen_pre", "elaena_targaryen_pre"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Daenys Targaryen",
+      "aliases": ["Daenys the Dreamer"],
+      "titles": ["Lady"],
+      "era": "Pre-Conquest",
+      "biography": "Famed for her prophetic dragon dreams. Her vision of cataclysmic fire convinced her father to flee Valyria, saving House Targaryen from extinction. She recorded her visions in a lost book titled 'Signs and Portents.'",
+      "tags": ["Lady", "Dreamer", "Prophet"]
+    },
+    "es": {
+      "name": "Daenys Targaryen",
+      "aliases": ["Daenys la Soñadora"],
+      "titles": ["Dama"],
+      "era": "Pre-Conquista",
+      "biography": "Famosa por sus sueños proféticos sobre dragones. Su visión de un fuego cataclísmico convenció a su padre de huir de Valyria, salvando a la Casa Targaryen de la extinción. Escribió sus visiones en un libro perdido titulado 'Señales y Portentos.'",
+      "tags": ["Dama", "Soñadora", "Profeta"]
+    }
+  },
+  {
+    "id": "gaemon_targaryen",
+    "birth_year": -128,
+    "death_year": -75,
+    "parents": ["aenar_targaryen"],
+    "spouses": ["daenys_targaryen"],
+    "children": ["aegon_targaryen_pre", "elaena_targaryen_pre"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Gaemon Targaryen",
+      "aliases": ["Gaemon the Glorious"],
+      "titles": ["Lord of Dragonstone"],
+      "era": "Pre-Conquest",
+      "biography": "Son of Aenar the Exile and brother-husband to Daenys the Dreamer. He ruled Dragonstone after his father and is widely regarded as the greatest of the pre-Conquest Lords of Dragonstone.",
+      "tags": ["Lord"]
+    },
+    "es": {
+      "name": "Gaemon Targaryen",
+      "aliases": ["Gaemon el Glorioso"],
+      "titles": ["Señor de Rocadragón"],
+      "era": "Pre-Conquista",
+      "biography": "Hijo de Aenar el Exiliado y hermano-esposo de Daenys la Soñadora. Gobernó Rocadragón después de su padre y es considerado el más grande de los Señores de Rocadragón anteriores a la Conquista.",
+      "tags": ["Señor"]
+    }
+  },
+  {
+    "id": "aerion_targaryen_father",
+    "birth_year": -60,
+    "death_year": -5,
+    "parents": [],
+    "spouses": ["valaena_velaryon"],
+    "children": ["visenya_targaryen", "aegon_1", "rhaenys_targaryen"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Aerion Targaryen",
+      "aliases": [],
+      "titles": ["Lord of Dragonstone"],
+      "era": "Pre-Conquest",
+      "biography": "Lord of Dragonstone directly preceding the Conquest. He married Valaena Velaryon and fathered Visenya, Aegon the Conqueror, and Rhaenys, laying the groundwork for the conquest of Westeros.",
+      "tags": ["Lord"]
+    },
+    "es": {
+      "name": "Aerion Targaryen",
+      "aliases": [],
+      "titles": ["Señor de Rocadragón"],
+      "era": "Pre-Conquista",
+      "biography": "Señor de Rocadragón inmediatamente anterior a la Conquista. Se casó con Valaena Velaryon y fue el padre de Visenya, Aegon el Conquistador y Rhaenys, sentando las bases para la conquista de Poniente.",
+      "tags": ["Señor"]
+    }
+  },
+  {
+    "id": "valaena_velaryon",
+    "birth_year": -58,
+    "death_year": -2,
+    "parents": [],
+    "spouses": ["aerion_targaryen_father"],
+    "children": ["visenya_targaryen", "aegon_1", "rhaenys_targaryen"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Valaena Velaryon",
+      "aliases": [],
+      "titles": ["Lady of Dragonstone"],
+      "era": "Pre-Conquest",
+      "biography": "A noblewoman of House Velaryon who was half-Targaryen through her mother. She married Lord Aerion Targaryen, becoming the mother of Aegon the Conqueror and his sister-wives.",
+      "tags": ["Lady", "Velaryon"]
+    },
+    "es": {
+      "name": "Valaena Velaryon",
+      "aliases": [],
+      "titles": ["Dama de Rocadragón"],
+      "era": "Pre-Conquista",
+      "biography": "Una noble de la Casa Velaryon que era media Targaryen por parte de su madre. Se casó con Lord Aerion Targaryen, convirtiéndose en la madre de Aegon el Conquistador y sus hermanas-esposas.",
+      "tags": ["Dama", "Velaryon"]
+    }
+  },
+  {
+    "id": "aegon_1",
+    "birth_year": -27,
+    "death_year": 37,
+    "parents": ["aerion_targaryen_father", "valaena_velaryon"],
+    "spouses": ["visenya_targaryen", "rhaenys_targaryen"],
+    "children": ["aenys_1", "maegor_1"],
+    "dragon": "Balerion",
+    "image": "assets/images/aegon_1.webp",
+    "en": {
+      "name": "Aegon I Targaryen",
+      "aliases": ["Aegon the Conqueror", "Aegon the Dragon"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms"
+      ],
+      "era": "The Conquest",
+      "biography": "Aegon I Targaryen, known as Aegon the Conqueror, was the founder of the ruling Targaryen dynasty of Westeros. Armed with the Valyrian steel blade Blackfyre and riding the colossal dragon Balerion the Black Dread, Aegon launched the Wars of Conquest alongside his sister-wives, Visenya and Rhaenys. He successfully unified six of the Seven Kingdoms, forging the Iron Throne from the melted, twisted swords of his defeated enemies. His reign established the dating system of Westeros (Before Conquest and After Conquest) and laid the foundation for nearly three centuries of Targaryen rule.",
+      "tags": ["King", "Conqueror", "Dragonrider"]
+    },
+    "es": {
+      "name": "Aegon I Targaryen",
+      "aliases": ["Aegon el Conquistador", "Aegon el Dragón"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos"
+      ],
+      "era": "La Conquista",
+      "biography": "Aegon I Targaryen, conocido como Aegon el Conquistador, fue el fundador de la dinastía reinante Targaryen en Poniente. Armado con la espada de acero valyrio Fuegonegro y montando al colosal dragón Balerion el Terror Negro, Aegon inició las Guerras de Conquista junto a sus hermanas-esposas, Visenya y Rhaenys. Logró unificar seis de los Siete Reinos, forjando el Trono de Hierro con las espadas fundidas y retorcidas de sus enemigos derrotados. Su reinado estableció el sistema de datación de Poniente (Antes de la Conquista y Después de la Conquista) y sentó las bases para casi tres siglos de dominio Targaryen.",
+      "tags": ["Rey", "Conquistador", "Jinete de Dragón"]
+    }
+  },
+  {
+    "id": "visenya_targaryen",
+    "birth_year": -29,
+    "death_year": 44,
+    "parents": ["aerion_targaryen_father", "valaena_velaryon"],
+    "spouses": ["aegon_1"],
+    "children": ["maegor_1"],
+    "dragon": "Vhagar",
+    "image": "assets/images/visenya_targaryen.webp",
+    "en": {
+      "name": "Visenya Targaryen",
+      "aliases": [],
+      "titles": ["Queen of the Seven Kingdoms"],
+      "era": "The Conquest",
+      "biography": "The elder sister-wife of Aegon the Conqueror, Visenya was a fierce, uncompromising warrior who commanded the great dragon Vhagar and wielded the Valyrian steel sword Dark Sister. During the Conquest, she secured the Vale without bloodshed by simply landing Vhagar in the courtyard of the Eyrie. Later in life, her stern, unforgiving nature deepened, and she was instrumental in the creation of the Kingsguard. Rumored to have dabbled in dark magic, she fiercely championed her son Maegor's brutal claim to the Iron Throne.",
+      "tags": ["Queen", "Dragonrider", "Warrior"]
+    },
+    "es": {
+      "name": "Visenya Targaryen",
+      "aliases": [],
+      "titles": ["Reina de los Siete Reinos"],
+      "era": "La Conquista",
+      "biography": "La hermana mayor y esposa de Aegon el Conquistador, Visenya fue una guerrera feroz e intransigente que comandaba al gran dragón Vhagar y empuñaba la espada de acero valyrio Hermana Oscura. Durante la Conquista, aseguró el Valle sin derramamiento de sangre simplemente aterrizando a Vhagar en el patio del Nido de Águilas. En su madurez, su naturaleza severa e implacable se acentuó, y fue fundamental en la creación de la Guardia Real. Se rumoreaba que practicaba la magia oscura, y defendió ferozmente el brutal reclamo de su hijo Maegor al Trono de Hierro.",
+      "tags": ["Reina", "Jinete de Dragón", "Guerrera"]
+    }
+  },
+  {
+    "id": "rhaenys_targaryen",
+    "birth_year": -25,
+    "death_year": 10,
+    "parents": ["aerion_targaryen_father", "valaena_velaryon"],
+    "spouses": ["aegon_1"],
+    "children": ["aenys_1"],
+    "dragon": "Meraxes",
+    "image": "assets/images/rhaenys_targaryen.webp",
+    "en": {
+      "name": "Rhaenys Targaryen",
+      "aliases": [],
+      "titles": ["Queen of the Seven Kingdoms"],
+      "era": "The Conquest",
+      "biography": "The younger, more beloved sister-wife of Aegon the Conqueror, Rhaenys was a passionate patron of bards, singers, and the arts. She spent more time on dragonback than Aegon and Visenya combined, riding the silver dragon Meraxes. Graceful and playful, she was responsible for arranging many marriages between rival houses to unite the newly conquered realm. Her life ended in tragedy during the First Dornish War when a scorpion bolt pierced Meraxes' eye through the skies above Hellholt, sending both dragon and rider crashing to their doom.",
+      "tags": ["Queen", "Dragonrider"]
+    },
+    "es": {
+      "name": "Rhaenys Targaryen",
+      "aliases": [],
+      "titles": ["Reina de los Siete Reinos"],
+      "era": "La Conquista",
+      "biography": "La hermana menor y más amada esposa de Aegon el Conquistador, Rhaenys fue una apasionada mecenas de bardos, cantantes y las artes. Pasaba más tiempo a lomos de dragón que Aegon y Visenya juntos, montando a la dragona plateada Meraxes. Grácil y alegre, fue responsable de organizar muchos matrimonios entre casas rivales para unir el reino recién conquistado. Su vida terminó en tragedia durante la Primera Guerra Dornesa cuando un dardo de escorpión atravesó el ojo de Meraxes en los cielos de Sotoinferno, precipitando tanto a la dragona como a su jinete hacia su perdición.",
+      "tags": ["Reina", "Jinete de Dragón"]
+    }
+  },
+  {
+    "id": "orys_baratheon",
+    "birth_year": -27,
+    "death_year": 37,
+    "parents": ["aerion_targaryen_father"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Orys Baratheon",
+      "aliases": ["Orys One-Hand"],
+      "titles": ["Lord Paramount of the Stormlands", "Hand of the King"],
+      "era": "The Conquest",
+      "biography": "Widely believed to be the bastard half-brother of Aegon the Conqueror, Orys was Aegon's fiercest commander and closest friend. During the Conquest, he defeated Argilac the Arrogant, taking Argilac's daughter, castle, and House words—'Ours is the Fury'—to found House Baratheon. He served as the first Hand of the King, but his life grew dark after he was captured and mutilated by the Wyls of Dorne, losing his sword hand. He became known as 'Orys One-Hand' and exacted a bitter, bloody vengeance upon his captors years later.",
+      "tags": ["Lord", "Hand of the King", "Founder", "Bastard"]
+    },
+    "es": {
+      "name": "Orys Baratheon",
+      "aliases": ["Orys el Manco"],
+      "titles": ["Señor Supremo de las Tierras de Tormentas", "Mano del Rey"],
+      "era": "La Conquista",
+      "biography": "Ampliamente considerado como el medio hermano bastardo de Aegon el Conquistador, Orys fue el comandante más feroz y el amigo más cercano de Aegon. Durante la Conquista, derrotó a Argilac el Arrogante, tomando a la hija, el castillo y el lema de su Casa —'Nuestra es la Furia'— para fundar la Casa Baratheon. Sirvió como la primera Mano del Rey, pero su vida se oscureció tras ser capturado y mutilado por la Casa Wyl de Dorne, perdiendo su mano de la espada. Se le conoció como 'Orys el Manco' y años después cobró una amarga y sangrienta venganza contra sus captores.",
+      "tags": ["Señor", "Mano del Rey", "Fundador", "Bastardo"]
+    }
+  },
+  {
+    "id": "aenys_1",
+    "birth_year": 7,
+    "death_year": 42,
+    "parents": ["aegon_1", "rhaenys_targaryen"],
+    "spouses": ["alyssa_velaryon"],
+    "children": ["jaehaerys_1", "alysanne_targaryen"],
+    "dragon": "Quicksilver",
+    "image": "assets/images/aenys_1.webp",
+    "en": {
+      "name": "Aenys I Targaryen",
+      "aliases": [],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms",
+        "Protector of the Realm"
+      ],
+      "era": "The Sons of the Dragon",
+      "biography": "Aenys I was the firstborn son of Aegon the Conqueror and his beloved sister-wife, Rhaenys. Unlike his father, Aenys was a dreamer and a patron of the arts, lacking the martial strength, decisiveness, and ruthlessness required to hold a newly forged kingdom together. His reign was immediately plagued by rebellions, most notably the devastating Faith Militant uprising, which protested the Targaryen practice of incest. Unable to cope with the immense stress of a fractured realm, Aenys fell mysteriously ill and died on Dragonstone, leaving the Iron Throne vulnerable to usurpation.",
+      "tags": ["King", "Dragonrider"]
+    },
+    "es": {
+      "name": "Aenys I Targaryen",
+      "aliases": [],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos",
+        "Protector del Reino"
+      ],
+      "era": "Los Hijos del Dragón",
+      "biography": "Aenys I fue el hijo primogénito de Aegon el Conquistador y su amada hermana-esposa, Rhaenys. A diferencia de su padre, Aenys era un soñador y un mecenas de las artes, careciendo de la fuerza marcial, la decisión y la crueldad necesarias para mantener unido un reino recién forjado. Su reinado estuvo inmediatamente plagado de rebeliones, la más notable fue el devastador levantamiento de la Fe Militante, que protestaba contra la práctica Targaryen del incesto. Incapaz de hacer frente al inmenso estrés de un reino fracturado, Aenys enfermó misteriosamente y murió en Rocadragón, dejando el Trono de Hierro vulnerable a la usurpación.",
+      "tags": ["Rey", "Jinete de Dragón"]
+    }
+  },
+  {
+    "id": "maegor_1",
+    "birth_year": 12,
+    "death_year": 48,
+    "parents": ["aegon_1", "visenya_targaryen"],
+    "spouses": ["ceryse_hightower"],
+    "children": [],
+    "dragon": "Balerion the Black Dread",
+    "image": "assets/images/maegor_1.webp",
+    "en": {
+      "name": "Maegor I Targaryen",
+      "aliases": ["Maegor the Cruel"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms",
+        "Protector of the Realm"
+      ],
+      "era": "The Sons of the Dragon",
+      "biography": "Maegor I, known to history as Maegor the Cruel, was the massive and brutal son of Aegon the Conqueror and Queen Visenya. Believing himself the only man strong enough to rule following his half-brother's death, he usurped the Iron Throne from his nephew Aegon (son of Aenys) and brutally crushed the Faith Militant with fire, blood, and dark sorcery. His reign was marked by absolute terror, mass executions, and the completion of the Red Keep—after which he murdered all the builders to keep its secrets hidden. He died mysteriously upon the Iron Throne itself, leaving no living heirs and a traumatized realm.",
+      "tags": ["King", "Dragonrider", "Usurper"]
+    },
+    "es": {
+      "name": "Maegor I Targaryen",
+      "aliases": ["Maegor el Cruel"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos",
+        "Protector del Reino"
+      ],
+      "era": "Los Hijos del Dragón",
+      "biography": "Maegor I, conocido en la historia como Maegor el Cruel, fue el hijo masivo y brutal de Aegon el Conquistador y la reina Visenya. Creyéndose el único hombre lo suficientemente fuerte para gobernar tras la muerte de su medio hermano, usurpó el Trono de Hierro a su sobrino Aegon (hijo de Aenys) y aplastó brutalmente a la Fe Militante con fuego, sangre y hechicería oscura. Su reinado estuvo marcado por el terror absoluto, ejecuciones masivas y la finalización de la Fortaleza Roja, tras lo cual asesinó a todos los constructores para mantener ocultos sus secretos. Murió misteriosamente en el mismísimo Trono de Hierro, sin dejar herederos vivos y con un reino traumatizado.",
+      "tags": ["Rey", "Jinete de Dragón", "Usurpador"]
+    }
+  },
+  {
+    "id": "alyssa_velaryon",
+    "birth_year": 7,
+    "death_year": 54,
+    "parents": [],
+    "spouses": ["aenys_1"],
+    "children": ["jaehaerys_1", "alysanne_targaryen"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Alyssa Velaryon",
+      "aliases": [],
+      "titles": ["Queen of the Seven Kingdoms", "Queen Regent"],
+      "era": "The Sons of the Dragon",
+      "biography": "Alyssa Velaryon was the queen consort of Aenys I. Following her husband's death, she and her younger children were held hostage on Dragonstone by Maegor the Cruel. In a daring escape, she fled the island, stealing away with the Valyrian steel sword Dark Sister. She lived in hiding until Maegor's downfall, after which she served as Queen Regent for her young son, Jaehaerys I, helping to heal a severely fractured realm.",
+      "tags": ["Queen", "Regent"]
+    },
+    "es": {
+      "name": "Alyssa Velaryon",
+      "aliases": [],
+      "titles": ["Reina de los Siete Reinos", "Reina Regente"],
+      "era": "Los Hijos del Dragón",
+      "biography": "Alyssa Velaryon fue la reina consorte de Aenys I. Tras la muerte de su esposo, ella y sus hijos menores fueron tomados como rehenes en Rocadragón por Maegor el Cruel. En un audaz escape, huyó de la isla, llevándose consigo la espada de acero valyrio Hermana Oscura. Vivió en la clandestinidad hasta la caída de Maegor, después de lo cual sirvió como Reina Regente para su joven hijo, Jaehaerys I, ayudando a sanar un reino severamente fracturado.",
+      "tags": ["Reina", "Regente"]
+    }
+  },
+  {
+    "id": "ceryse_hightower",
+    "birth_year": 2,
+    "death_year": 45,
+    "parents": [],
+    "spouses": ["maegor_1"],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Ceryse Hightower",
+      "aliases": [],
+      "titles": ["Queen of the Seven Kingdoms"],
+      "era": "The Sons of the Dragon",
+      "biography": "Ceryse Hightower was the niece of the High Septon and the first of Maegor the Cruel's six wives. Their marriage was a political move by Aegon the Conqueror to placate the Faith of the Seven. However, Ceryse failed to produce an heir, prompting Maegor to take a second wife in secret. This defiance sparked a massive rebellion from the Faith and led to Ceryse's eventual tragic end.",
+      "tags": ["Queen"]
+    },
+    "es": {
+      "name": "Ceryse Hightower",
+      "aliases": [],
+      "titles": ["Reina de los Siete Reinos"],
+      "era": "Los Hijos del Dragón",
+      "biography": "Ceryse Hightower era sobrina del Septón Supremo y la primera de las seis esposas de Maegor el Cruel. Su matrimonio fue una maniobra política de Aegon el Conquistador para aplacar a la Fe de los Siete. Sin embargo, Ceryse no logró concebir un heredero, lo que llevó a Maegor a tomar una segunda esposa en secreto. Este desafío desató una rebelión masiva por parte de la Fe y condujo al trágico final de Ceryse.",
+      "tags": ["Reina"]
+    }
+  },
+  {
+    "id": "jaehaerys_1",
+    "birth_year": 34,
+    "death_year": 103,
+    "parents": ["aenys_1", "alyssa_velaryon"],
+    "spouses": ["alysanne_targaryen"],
+    "children": [
+      "aegon_targaryen_infant",
+      "daenerys_targaryen_1",
+      "aemon_targaryen",
+      "baelon_targaryen",
+      "alyssa_targaryen_2",
+      "maegelle_targaryen",
+      "vaegon_targaryen",
+      "daella_targaryen",
+      "saera_targaryen",
+      "viserra_targaryen",
+      "gaemon_targaryen",
+      "valerion_targaryen",
+      "gael_targaryen"
+    ],
+    "dragon": "Vermithor",
+    "image": "assets/images/jaehaerys_1.webp",
+    "en": {
+      "name": "Jaehaerys I Targaryen",
+      "aliases": ["The Conciliator", "The Old King", "The Wise"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms",
+        "Protector of the Realm"
+      ],
+      "era": "The Long Peace",
+      "biography": "Jaehaerys I, known as the Conciliator and the Old King, is widely regarded as the greatest Targaryen monarch. Inheriting a realm soaked in blood from Maegor's reign, he brokered a lasting peace with the Faith without shedding a drop of blood. Ruling for 55 years alongside his beloved sister-wife Alysanne, Jaehaerys codified the laws of Westeros, built the Kingsroad, and brought an unprecedented era of peace, prosperity, and cultural golden age to the Seven Kingdoms. He rode the massive bronze dragon, Vermithor.",
+      "tags": ["King", "Dragonrider", "Peacemaker"]
+    },
+    "es": {
+      "name": "Jaehaerys I Targaryen",
+      "aliases": ["El Conciliador", "El Viejo Rey", "El Sabio"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos",
+        "Protector del Reino"
+      ],
+      "era": "La Larga Paz",
+      "biography": "Jaehaerys I, conocido como el Conciliador y el Viejo Rey, es ampliamente considerado como el monarca Targaryen más grande de la historia. Al heredar un reino empapado en sangre por el reinado de Maegor, forjó una paz duradera con la Fe sin derramar una sola gota de sangre. Gobernando durante 55 años junto a su amada hermana-esposa Alysanne, Jaehaerys unificó las leyes de Poniente, construyó el Camino Real y trajo a los Siete Reinos una era sin precedentes de paz, prosperidad y una edad de oro cultural. Montó al enorme dragón de bronce, Vermithor.",
+      "tags": ["Rey", "Jinete de Dragón", "Pacificador"]
+    }
+  },
+  {
+    "id": "alysanne_targaryen",
+    "birth_year": 36,
+    "death_year": 100,
+    "parents": ["aenys_1", "alyssa_velaryon"],
+    "spouses": ["jaehaerys_1"],
+    "children": [
+      "aegon_targaryen_infant",
+      "daenerys_targaryen_1",
+      "aemon_targaryen",
+      "baelon_targaryen",
+      "alyssa_targaryen_2",
+      "maegelle_targaryen",
+      "vaegon_targaryen",
+      "daella_targaryen",
+      "saera_targaryen",
+      "viserra_targaryen",
+      "gaemon_targaryen",
+      "valerion_targaryen",
+      "gael_targaryen"
+    ],
+    "dragon": "Silverwing",
+    "image": "assets/images/alysanne_targaryen.webp",
+    "en": {
+      "name": "Alysanne Targaryen",
+      "aliases": ["Good Queen Alysanne"],
+      "titles": ["Queen of the Seven Kingdoms"],
+      "era": "The Long Peace",
+      "biography": "Alysanne Targaryen, universally remembered as Good Queen Alysanne, was the sister, wife, and most trusted advisor to Jaehaerys I. Deeply beloved by the smallfolk, she was highly influential in the realm's governance. She famously convinced the King to abolish the Lord's Right to the First Night and funded a massive expansion of the Night's Watch in the North, known today as the New Gift. Her mount was the elegant she-dragon, Silverwing.",
+      "tags": ["Queen", "Dragonrider", "Reformer"]
+    },
+    "es": {
+      "name": "Alysanne Targaryen",
+      "aliases": ["La Buena Reina Alysanne"],
+      "titles": ["Reina de los Siete Reinos"],
+      "era": "La Larga Paz",
+      "biography": "Alysanne Targaryen, recordada universalmente como la Buena Reina Alysanne, fue la hermana, esposa y la consejera más confiable de Jaehaerys I. Profundamente amada por el pueblo llano, tuvo una gran influencia en el gobierno del reino. Es célebre por convencer al Rey de abolir el derecho de la Primera Noche y por financiar una expansión masiva de la Guardia de la Noche en el Norte, conocida hoy como el Nuevo Agasajo. Su montura era la elegante dragona, Ala de Plata.",
+      "tags": ["Reina", "Jinete de Dragón", "Reformadora"]
+    }
+  },
+  {
+    "id": "aegon_targaryen_infant",
+    "birth_year": 52,
+    "death_year": 52,
+    "parents": ["jaehaerys_1", "alysanne_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Aegon Targaryen",
+      "aliases": [],
+      "titles": ["Prince"],
+      "era": "The Long Peace",
+      "biography": "The firstborn child of Jaehaerys I and Alysanne, Prince Aegon was born premature and died just three days after his birth, bringing early heartbreak to the royal couple.",
+      "tags": ["Prince", "Infant"]
+    },
+    "es": {
+      "name": "Aegon Targaryen",
+      "aliases": [],
+      "titles": ["Príncipe"],
+      "era": "La Larga Paz",
+      "biography": "El primogénito de Jaehaerys I y Alysanne, el príncipe Aegon nació prematuro y murió apenas tres días después de su nacimiento, trayendo una tristeza temprana a la pareja real.",
+      "tags": ["Príncipe", "Infante"]
+    }
+  },
+  {
+    "id": "daenerys_targaryen_1",
+    "birth_year": 53,
+    "death_year": 60,
+    "parents": ["jaehaerys_1", "alysanne_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Daenerys Targaryen",
+      "aliases": ["The First Daenerys"],
+      "titles": ["Princess"],
+      "era": "The Long Peace",
+      "biography": "The eldest daughter of the King and Queen. A bright, beloved child who was expected to eventually marry her younger brother Aemon. Tragically, she died at age seven during the devastating plague known as the Shivers.",
+      "tags": ["Princess"]
+    },
+    "es": {
+      "name": "Daenerys Targaryen",
+      "aliases": ["La Primera Daenerys"],
+      "titles": ["Princesa"],
+      "era": "La Larga Paz",
+      "biography": "La hija mayor del Rey y la Reina. Una niña brillante y muy amada que se esperaba que eventualmente se casara con su hermano menor Aemon. Trágicamente, murió a los siete años durante la devastadora plaga conocida como los Escalofríos.",
+      "tags": ["Princesa"]
+    }
+  },
+  {
+    "id": "aemon_targaryen",
+    "birth_year": 55,
+    "death_year": 92,
+    "parents": ["jaehaerys_1", "alysanne_targaryen"],
+    "spouses": ["jocelyn_baratheon"],
+    "children": ["rhaenys_targaryen_2"],
+    "dragon": "Caraxes",
+    "image": null,
+    "en": {
+      "name": "Aemon Targaryen",
+      "aliases": [],
+      "titles": ["Prince of Dragonstone"],
+      "era": "The Long Peace",
+      "biography": "The eldest surviving son and long-standing heir to the Iron Throne. Honorable, brave, and deeply respected, Aemon was the original rider of the Blood Wyrm, Caraxes. He was tragically slain by a Myrish crossbowman on the island of Tarth, triggering the first succession crisis of Jaehaerys's reign.",
+      "tags": ["Prince", "Dragonrider", "Heir"]
+    },
+    "es": {
+      "name": "Aemon Targaryen",
+      "aliases": [],
+      "titles": ["Príncipe de Rocadragón"],
+      "era": "La Larga Paz",
+      "biography": "El hijo mayor sobreviviente y heredero por mucho tiempo al Trono de Hierro. Honorable, valiente y profundamente respetado, Aemon fue el jinete original del Gusano de Sangre, Caraxes. Fue asesinado trágicamente por un ballestero myriense en la isla de Tarth, lo que desencadenó la primera crisis de sucesión del reinado de Jaehaerys.",
+      "tags": ["Príncipe", "Jinete de Dragón", "Heredero"]
+    }
+  },
+  {
+    "id": "baelon_targaryen",
+    "birth_year": 57,
+    "death_year": 101,
+    "parents": ["jaehaerys_1", "alysanne_targaryen"],
+    "spouses": ["alyssa_targaryen_2"],
+    "children": ["viserys_1", "daemon_targaryen"],
+    "dragon": "Vhagar",
+    "image": null,
+    "en": {
+      "name": "Baelon Targaryen",
+      "aliases": ["Baelon the Brave", "The Spring Prince"],
+      "titles": ["Prince of Dragonstone", "Hand of the King"],
+      "era": "The Long Peace",
+      "biography": "Prince Baelon the Brave was the beloved son of Jaehaerys I and Alysanne. A fierce warrior, he claimed the mighty dragon Vhagar and served as Hand of the King. He married his fiercely independent sister, Alyssa. His sudden death from a burst belly triggered the Great Council of 101 AC to determine the succession.",
+      "tags": ["Prince", "Dragonrider", "Hand of the King"]
+    },
+    "es": {
+      "name": "Baelon Targaryen",
+      "aliases": ["Baelon el Valiente", "El Príncipe de la Primavera"],
+      "titles": ["Príncipe de Rocadragón", "Mano del Rey"],
+      "era": "La Larga Paz",
+      "biography": "El príncipe Baelon el Valiente era el amado hijo de Jaehaerys I y Alysanne. Un guerrero feroz, reclamó a la poderosa dragona Vhagar y sirvió como Mano del Rey. Se casó con su ferozmente independiente hermana, Alyssa. Su repentina muerte por un apéndice reventado provocó el Gran Consejo del 101 d.C. para determinar la sucesión.",
+      "tags": ["Príncipe", "Jinete de Dragón", "Mano del Rey"]
+    }
+  },
+  {
+    "id": "alyssa_targaryen_2",
+    "birth_year": 60,
+    "death_year": 84,
+    "parents": ["jaehaerys_1", "alysanne_targaryen"],
+    "spouses": ["baelon_targaryen"],
+    "children": ["viserys_1", "daemon_targaryen"],
+    "dragon": "Meleys",
+    "image": null,
+    "en": {
+      "name": "Alyssa Targaryen",
+      "aliases": [],
+      "titles": ["Princess"],
+      "era": "The Long Peace",
+      "biography": "Princess Alyssa was a boisterous, tomboyish daughter of Jaehaerys I. She claimed the Red Queen, Meleys, and loved nothing more than flying and her brother-husband, Baelon. She died young, shortly after giving birth to her third son.",
+      "tags": ["Princess", "Dragonrider"]
+    },
+    "es": {
+      "name": "Alyssa Targaryen",
+      "aliases": [],
+      "titles": ["Princesa"],
+      "era": "La Larga Paz",
+      "biography": "La princesa Alyssa era una hija bulliciosa y poco femenina de Jaehaerys I. Reclamó a la Reina Roja, Meleys, y no amaba nada más que volar y a su hermano-esposo, Baelon. Murió joven, poco después de dar a luz a su tercer hijo.",
+      "tags": ["Princesa", "Jinete de Dragón"]
+    }
+  },
+  {
+    "id": "maegelle_targaryen",
+    "birth_year": 62,
+    "death_year": 96,
+    "parents": ["jaehaerys_1", "alysanne_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Maegelle Targaryen",
+      "aliases": [],
+      "titles": ["Princess", "Septa"],
+      "era": "The Long Peace",
+      "biography": "Given to the Faith of the Seven at a young age, Maegelle became a devoted and highly respected Septa. She was known for her compassion and famously nursed children afflicted with greyscale. Tragically, she contracted the disease herself and died.",
+      "tags": ["Princess", "Septa"]
+    },
+    "es": {
+      "name": "Maegelle Targaryen",
+      "aliases": [],
+      "titles": ["Princesa", "Septa"],
+      "era": "La Larga Paz",
+      "biography": "Entregada a la Fe de los Siete a una edad temprana, Maegelle se convirtió en una Septa devota y muy respetada. Era conocida por su compasión y fue famosa por cuidar de los niños afectados por la psoriagrís. Trágicamente, ella misma contrajo la enfermedad y murió.",
+      "tags": ["Princesa", "Septa"]
+    }
+  },
+  {
+    "id": "vaegon_targaryen",
+    "birth_year": 63,
+    "death_year": 130,
+    "parents": ["jaehaerys_1", "alysanne_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Vaegon Targaryen",
+      "aliases": ["Vaegon the Dragonless"],
+      "titles": ["Prince", "Archmaester"],
+      "era": "The Long Peace",
+      "biography": "Unlike his siblings, Vaegon had no interest in dragons, martial pursuits, or marriage. Sullen and bookish, he was sent to the Citadel where he thrived, eventually becoming an Archmaester. He famously refused the Iron Throne when it was offered to him during the Great Council of 101 AC.",
+      "tags": ["Prince", "Archmaester"]
+    },
+    "es": {
+      "name": "Vaegon Targaryen",
+      "aliases": ["Vaegon el Sin Dragón"],
+      "titles": ["Príncipe", "Archimaestre"],
+      "era": "La Larga Paz",
+      "biography": "A diferencia de sus hermanos, Vaegon no tenía interés en los dragones, las actividades marciales o el matrimonio. Hosco y estudioso, fue enviado a la Ciudadela donde prosperó, convirtiéndose eventualmente en un Archimaestre. Es famoso por rechazar el Trono de Hierro cuando se le ofreció durante el Gran Consejo del 101 d.C.",
+      "tags": ["Príncipe", "Archimaestre"]
+    }
+  },
+  {
+    "id": "daella_targaryen",
+    "birth_year": 64,
+    "death_year": 82,
+    "parents": ["jaehaerys_1", "alysanne_targaryen"],
+    "spouses": ["rodrik_arryn"],
+    "children": ["aemma_arryn"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Daella Targaryen",
+      "aliases": [],
+      "titles": ["Princess", "Lady of the Eyrie"],
+      "era": "The Long Peace",
+      "biography": "Timid, easily frightened, and delicate, Daella struggled with the expectations placed upon a Targaryen princess. After rejecting several suitors, she chose to marry the much older Lord Rodrik Arryn. She died in childbed giving birth to her only daughter, Aemma.",
+      "tags": ["Princess", "Lady"]
+    },
+    "es": {
+      "name": "Daella Targaryen",
+      "aliases": [],
+      "titles": ["Princesa", "Señora del Nido de Águilas"],
+      "era": "La Larga Paz",
+      "biography": "Tímida, asustadiza y delicada, Daella luchó con las expectativas puestas sobre una princesa Targaryen. Después de rechazar a varios pretendientes, eligió casarse con el mucho mayor Lord Rodrik Arryn. Murió en el lecho de parto dando a luz a su única hija, Aemma.",
+      "tags": ["Princesa", "Señora"]
+    }
+  },
+  {
+    "id": "rodrik_arryn",
+    "birth_year": 30,
+    "death_year": 99,
+    "parents": [],
+    "spouses": ["daella_targaryen"],
+    "children": ["aemma_arryn"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Rodrik Arryn",
+      "aliases": [],
+      "titles": ["Lord of the Eyrie", "Defender of the Vale"],
+      "era": "The Long Peace",
+      "biography": "Lord of the Eyrie and head of House Arryn. He was chosen by Princess Daella as her husband because he was gentle and kind to her. Through their daughter Aemma, his bloodline fed back into the Targaryen royal line.",
+      "tags": ["Lord"]
+    },
+    "es": {
+      "name": "Rodrik Arryn",
+      "aliases": [],
+      "titles": ["Señor del Nido de Águilas", "Defensor del Valle"],
+      "era": "La Larga Paz",
+      "biography": "Señor del Nido de Águilas y cabeza de la Casa Arryn. Fue elegido por la princesa Daella como su esposo porque era gentil y amable con ella. A través de su hija Aemma, su linaje se reincorporó a la línea real Targaryen.",
+      "tags": ["Señor"]
+    }
+  },
+  {
+    "id": "saera_targaryen",
+    "birth_year": 67,
+    "death_year": 125,
+    "parents": ["jaehaerys_1", "alysanne_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Saera Targaryen",
+      "aliases": [],
+      "titles": ["Princess"],
+      "era": "The Long Peace",
+      "biography": "Rebellious, vain, and fiercely willful, Saera caused the greatest scandal of Jaehaerys's reign. After being caught in a web of seduction and deceit at court, she was confined to the Faith. She escaped and fled across the Narrow Sea to Essos, eventually becoming a wealthy, powerful pleasure house owner in Volantis. She never returned to Westeros.",
+      "tags": ["Princess", "Exile"]
+    },
+    "es": {
+      "name": "Saera Targaryen",
+      "aliases": [],
+      "titles": ["Princesa"],
+      "era": "La Larga Paz",
+      "biography": "Rebelde, vanidosa y ferozmente voluntariosa, Saera causó el mayor escándalo del reinado de Jaehaerys. Tras ser descubierta en una red de seducción y engaños en la corte, fue confinada a la Fe. Escapó y huyó al otro lado del Mar Angosto hacia Essos, convirtiéndose finalmente en una rica y poderosa dueña de una casa de placer en Volantis. Nunca regresó a Poniente.",
+      "tags": ["Princesa", "Exiliada"]
+    }
+  },
+  {
+    "id": "viserra_targaryen",
+    "birth_year": 71,
+    "death_year": 87,
+    "parents": ["jaehaerys_1", "alysanne_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Viserra Targaryen",
+      "aliases": [],
+      "titles": ["Princess"],
+      "era": "The Long Peace",
+      "biography": "Considered the most extraordinarily beautiful of Alysanne's daughters, Viserra was vain and ambitious, scheming to marry her brother Baelon instead of her betrothed, an aging northern lord. The night before her departure to the North, she died after drunkenly falling from a horse while racing through the streets of King's Landing.",
+      "tags": ["Princess"]
+    },
+    "es": {
+      "name": "Viserra Targaryen",
+      "aliases": [],
+      "titles": ["Princesa"],
+      "era": "La Larga Paz",
+      "biography": "Considerada la más extraordinariamente hermosa de las hijas de Alysanne, Viserra era vanidosa y ambiciosa, y conspiró para casarse con su hermano Baelon en lugar de con su prometido, un anciano señor norteño. La noche antes de su partida hacia el Norte, murió al caer ebria de su caballo mientras corría por las calles de Desembarco del Rey.",
+      "tags": ["Princesa"]
+    }
+  },
+  {
+    "id": "gaemon_targaryen_1",
+    "birth_year": 73,
+    "death_year": 74,
+    "parents": ["jaehaerys_1", "alysanne_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Gaemon Targaryen",
+      "aliases": [],
+      "titles": ["Prince"],
+      "era": "The Long Peace",
+      "biography": "Born during a difficult labor, Prince Gaemon lived for less than three months.",
+      "tags": ["Prince", "Infant"]
+    },
+    "es": {
+      "name": "Gaemon Targaryen",
+      "aliases": [],
+      "titles": ["Príncipe"],
+      "era": "La Larga Paz",
+      "biography": "Nacido tras un parto difícil, el príncipe Gaemon vivió durante menos de tres meses.",
+      "tags": ["Príncipe", "Infante"]
+    }
+  },
+  {
+    "id": "valerion_targaryen",
+    "birth_year": 77,
+    "death_year": 78,
+    "parents": ["jaehaerys_1", "alysanne_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Valerion Targaryen",
+      "aliases": [],
+      "titles": ["Prince"],
+      "era": "The Long Peace",
+      "biography": "Born small and sickly, Prince Valerion lived only to his first name day before passing away.",
+      "tags": ["Prince", "Infant"]
+    },
+    "es": {
+      "name": "Valerion Targaryen",
+      "aliases": [],
+      "titles": ["Príncipe"],
+      "era": "La Larga Paz",
+      "biography": "Nacido pequeño y enfermizo, el príncipe Valerion vivió sólo hasta el día de su primer nombre antes de fallecer.",
+      "tags": ["Príncipe", "Infante"]
+    }
+  },
+  {
+    "id": "gael_targaryen",
+    "birth_year": 80,
+    "death_year": 99,
+    "parents": ["jaehaerys_1", "alysanne_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Gael Targaryen",
+      "aliases": ["The Winter Child"],
+      "titles": ["Princess"],
+      "era": "The Long Peace",
+      "biography": "The thirteenth and final child, known as the Winter Child. Sweet, simple-minded, and delicate, she rarely left her mother's side. After being seduced and abandoned by a traveling singer, she gave birth to a stillborn son and, overwhelmed by grief, drowned herself in the Blackwater Rush.",
+      "tags": ["Princess"]
+    },
+    "es": {
+      "name": "Gael Targaryen",
+      "aliases": ["La Niña del Invierno"],
+      "titles": ["Princesa"],
+      "era": "La Larga Paz",
+      "biography": "La decimotercera y última hija, conocida como la Niña del Invierno. Dulce, ingenua y delicada, rara vez se separaba del lado de su madre. Tras ser seducida y abandonada por un cantante viajero, dio a luz a un hijo que nació muerto y, abrumada por el dolor, se ahogó en el río Aguasnegras.",
+      "tags": ["Princesa"]
+    }
+  },
+  {
+    "id": "jocelyn_baratheon",
+    "birth_year": 54,
+    "death_year": 90,
+    "parents": [],
+    "spouses": ["aemon_targaryen"],
+    "children": ["rhaenys_targaryen_2"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Jocelyn Baratheon",
+      "aliases": [],
+      "titles": ["Lady"],
+      "era": "The Long Peace",
+      "biography": "Lady Jocelyn Baratheon was the aunt of King Jaehaerys I (by his mother's second marriage) and a formidable woman of Storm's End. She married Prince Aemon Targaryen, the heir to the Iron Throne, and gave birth to their only child, Princess Rhaenys. She died before she could see her daughter's claim to the throne repeatedly passed over.",
+      "tags": ["Lady"]
+    },
+    "es": {
+      "name": "Jocelyn Baratheon",
+      "aliases": [],
+      "titles": ["Lady"],
+      "era": "La Larga Paz",
+      "biography": "Lady Jocelyn Baratheon era la tía del rey Jaehaerys I (por el segundo matrimonio de su madre) y una mujer formidable de Bastión de Tormentas. Se casó con el príncipe Aemon Targaryen, heredero al Trono de Hierro, y dio a luz a su única hija, la princesa Rhaenys. Murió antes de poder ver cómo el derecho de su hija al trono era ignorado repetidamente.",
+      "tags": ["Lady"]
+    }
+  },
+  {
+    "id": "rhaenys_targaryen_2",
+    "birth_year": 74,
+    "death_year": 129,
+    "parents": ["aemon_targaryen", "jocelyn_baratheon"],
+    "spouses": ["corlys_velaryon"],
+    "children": ["laena_velaryon", "laenor_velaryon"],
+    "dragon": "Meleys",
+    "image": null,
+    "en": {
+      "name": "Rhaenys Targaryen",
+      "aliases": ["The Queen Who Never Was"],
+      "titles": ["Princess"],
+      "era": "The Pre-Dance",
+      "biography": "Princess Rhaenys was the only child of Prince Aemon, the original heir to Jaehaerys I. When her father died, her grandfather Jaehaerys passed over her in favor of her uncle Baelon, and later the Great Council of 101 AC passed over her again in favor of her cousin Viserys, cementing the precedent that a woman could not inherit the Iron Throne. Fierce, proud, and politically astute, she rode the Red Queen, Meleys.",
+      "tags": ["Princess", "Dragonrider"]
+    },
+    "es": {
+      "name": "Rhaenys Targaryen",
+      "aliases": ["La Reina que Nunca Fue"],
+      "titles": ["Princesa"],
+      "era": "La Pre-Danza",
+      "biography": "La princesa Rhaenys era la única hija del príncipe Aemon, el heredero original de Jaehaerys I. Cuando su padre murió, su abuelo Jaehaerys la pasó por alto a favor de su tío Baelon, y más tarde el Gran Consejo del 101 d.C. la pasó por alto de nuevo a favor de su primo Viserys, cimentando el precedente de que una mujer no podía heredar el Trono de Hierro. Fiera, orgullosa y políticamente astuta, montaba a la Reina Roja, Meleys.",
+      "tags": ["Princesa", "Jinete de Dragón"]
+    }
+  },
+  {
+    "id": "viserys_1",
+    "birth_year": 77,
+    "death_year": 129,
+    "parents": ["baelon_targaryen", "alyssa_targaryen_2"],
+    "spouses": ["aemma_arryn", "alicent_hightower"],
+    "children": [
+      "rhaenyra_targaryen",
+      "aegon_2",
+      "helaena_targaryen",
+      "aemond_targaryen",
+      "daeron_targaryen"
+    ],
+    "dragon": "Balerion the Black Dread",
+    "image": null,
+    "en": {
+      "name": "Viserys I Targaryen",
+      "aliases": ["The Peaceful King", "Viserys the Peaceful"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms"
+      ],
+      "era": "The Pre-Dance",
+      "biography": "Viserys I succeeded his grandfather Jaehaerys after being chosen at the Great Council of 101 AC. An amiable, conflict-avoidant man, his reign was marked by unprecedented peace and prosperity. He was the last rider of Balerion the Black Dread before the massive dragon died of old age. Viserys's desperate, tragic desire for a male heir—and his eventual staunch defense of his daughter Rhaenyra as his successor—inadvertently set the stage for the Dance of the Dragons.",
+      "tags": ["King", "Dragonrider"]
+    },
+    "es": {
+      "name": "Viserys I Targaryen",
+      "aliases": ["El Rey Pacífico", "Viserys el Pacífico"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos"
+      ],
+      "era": "La Pre-Danza",
+      "biography": "Viserys I sucedió a su abuelo Jaehaerys tras ser elegido en el Gran Consejo del 101 d.C. Un hombre afable que evitaba los conflictos, su reinado estuvo marcado por una paz y prosperidad sin precedentes. Fue el último jinete de Balerion, el Terror Negro, antes de que el enorme dragón muriera de viejo. El desesperado y trágico deseo de Viserys por un heredero varón —y su posterior y firme defensa de su hija Rhaenyra como su sucesora— preparó inadvertidamente el terreno para la Danza de Dragones.",
+      "tags": ["Rey", "Jinete de Dragón"]
+    }
+  },
+  {
+    "id": "aemma_arryn",
+    "birth_year": 82,
+    "death_year": 105,
+    "parents": ["daella_targaryen", "rodrik_arryn"],
+    "spouses": ["viserys_1"],
+    "children": ["rhaenyra_targaryen"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Aemma Arryn",
+      "aliases": [],
+      "titles": ["Queen of the Seven Kingdoms"],
+      "era": "The Pre-Dance",
+      "biography": "Aemma Arryn was the first wife of King Viserys I, and a Targaryen herself on her mother's side (Princess Daella). Her marriage was marred by multiple miscarriages and stillbirths as she struggled to provide Viserys with a living male heir, though she successfully birthed Princess Rhaenyra. She died a horrific, bloody death in childbed when Viserys ordered the maesters to perform a fatal cesarean section in a desperate attempt to save her infant son, Baelon, who died a day later.",
+      "tags": ["Queen"]
+    },
+    "es": {
+      "name": "Aemma Arryn",
+      "aliases": [],
+      "titles": ["Reina de los Siete Reinos"],
+      "era": "La Pre-Danza",
+      "biography": "Aemma Arryn fue la primera esposa del rey Viserys I, y ella misma era una Targaryen por parte de su madre (la princesa Daella). Su matrimonio estuvo marcado por múltiples abortos y mortinatos mientras luchaba por darle a Viserys un heredero varón vivo, aunque dio a luz con éxito a la princesa Rhaenyra. Tuvo una muerte horrenda y sangrienta en el lecho de parto cuando Viserys ordenó a los maestres realizar una cesárea fatal en un intento desesperado por salvar a su hijo recién nacido, Baelon, quien murió un día después.",
+      "tags": ["Reina"]
+    }
+  },
+  {
+    "id": "daemon_targaryen",
+    "birth_year": 81,
+    "death_year": 130,
+    "parents": ["baelon_targaryen", "alyssa_targaryen_2"],
+    "spouses": ["laena_velaryon", "rhaenyra_targaryen"],
+    "children": [
+      "baela_targaryen",
+      "rhaena_targaryen_2",
+      "aegon_3",
+      "viserys_2",
+      "visenya_targaryen_2"
+    ],
+    "dragon": "Caraxes",
+    "image": null,
+    "en": {
+      "name": "Daemon Targaryen",
+      "aliases": ["The Rogue Prince", "Lord Flea Bottom"],
+      "titles": [
+        "Prince of the City",
+        "Protector of the Realm",
+        "King of the Stepstones"
+      ],
+      "era": "The Pre-Dance",
+      "biography": "Daemon Targaryen was the ambitious, volatile, and deeply dangerous younger brother of King Viserys I. Wielding the Valyrian steel sword Dark Sister and riding the blood-red dragon Caraxes (the Blood Wyrm), he was a renowned warrior who made enemies as easily as he breathed. Believing himself the rightful heir to his brother for years, his chaotic life was filled with scandal, exile, and military conquests in the Stepstones.",
+      "tags": ["Prince", "Dragonrider", "Warrior"]
+    },
+    "es": {
+      "name": "Daemon Targaryen",
+      "aliases": ["El Príncipe Canalla", "Lord Lecho de Pulgas"],
+      "titles": [
+        "Príncipe de la Ciudad",
+        "Protector del Reino",
+        "Rey de los Peldaños de Piedra"
+      ],
+      "era": "La Pre-Danza",
+      "biography": "Daemon Targaryen era el hermano menor, ambicioso, volátil y profundamente peligroso, del rey Viserys I. Blandiendo la espada de acero valyrio Hermana Oscura y montando al dragón rojo sangre Caraxes (el Gusano de Sangre), era un guerrero de renombre que se ganaba enemigos con la misma facilidad con la que respiraba. Creyéndose el legítimo heredero de su hermano durante años, su vida caótica estuvo llena de escándalos, exilio y conquistas militares en los Peldaños de Piedra.",
+      "tags": ["Príncipe", "Jinete de Dragón", "Guerrero"]
+    }
+  },
+  {
+    "id": "alicent_hightower",
+    "birth_year": 88,
+    "death_year": 133,
+    "parents": [],
+    "spouses": ["viserys_1"],
+    "children": [
+      "aegon_2",
+      "helaena_targaryen",
+      "aemond_targaryen",
+      "daeron_targaryen"
+    ],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Alicent Hightower",
+      "aliases": [],
+      "titles": ["Queen of the Seven Kingdoms", "Dowager Queen"],
+      "era": "The Dance of the Dragons",
+      "biography": "Alicent Hightower was the daughter of the Hand of the King and the second wife of King Viserys I. Cunning and fiercely protective of her bloodline, she gave the King the male heirs he had desperately sought. She became the political mastermind of the 'Greens'—named for the color of her house's war beacon—arguing that her son Aegon should inherit the Iron Throne over Viserys's named heir, Princess Rhaenyra.",
+      "tags": ["Queen", "The Greens"]
+    },
+    "es": {
+      "name": "Alicent Hightower",
+      "aliases": [],
+      "titles": ["Reina de los Siete Reinos", "Reina Viuda"],
+      "era": "La Danza de Dragones",
+      "biography": "Alicent Hightower era hija de la Mano del Rey y la segunda esposa del rey Viserys I. Astuta y ferozmente protectora de su linaje, le dio al Rey los herederos varones que había buscado desesperadamente. Se convirtió en la mente política de 'Los Verdes' —llamados así por el color del fuego de guerra de su casa— argumentando que su hijo Aegon debía heredar el Trono de Hierro por encima de la heredera nombrada por Viserys, la princesa Rhaenyra.",
+      "tags": ["Reina", "Los Verdes"]
+    }
+  },
+  {
+    "id": "rhaenyra_targaryen",
+    "birth_year": 97,
+    "death_year": 130,
+    "parents": ["viserys_1", "aemma_arryn"],
+    "spouses": ["laenor_velaryon", "daemon_targaryen"],
+    "children": [
+      "jacaerys_velaryon",
+      "lucerys_velaryon",
+      "joffrey_velaryon",
+      "aegon_3",
+      "viserys_2",
+      "visenya_targaryen_2"
+    ],
+    "dragon": "Syrax",
+    "image": null,
+    "en": {
+      "name": "Rhaenyra Targaryen",
+      "aliases": ["The Realm's Delight", "The Half-Year Queen"],
+      "titles": [
+        "Princess of Dragonstone",
+        "Queen of the Andals, the Rhoynar, and the First Men"
+      ],
+      "era": "The Dance of the Dragons",
+      "biography": "Rhaenyra Targaryen was the eldest child of King Viserys I and his named heir. Her claim to the Iron Throne was usurped by her half-brother Aegon II upon their father's death, sparking the devastating civil war known as the Dance of the Dragons. Proud and unyielding, she rode the yellow she-dragon Syrax and led the 'Blacks'. Her brief, bloody taking of King's Landing ended in riots, betrayal, and her own tragic death at her brother's hands.",
+      "tags": ["Queen", "Dragonrider", "The Blacks", "Heir"]
+    },
+    "es": {
+      "name": "Rhaenyra Targaryen",
+      "aliases": ["La Alegría del Reino", "La Reina de Medio Año"],
+      "titles": [
+        "Princesa de Rocadragón",
+        "Reina de los Ándalos, los Rhoynar y los Primeros Hombres"
+      ],
+      "era": "La Danza de Dragones",
+      "biography": "Rhaenyra Targaryen fue la primogénita del rey Viserys I y su heredera nombrada. Su reclamo al Trono de Hierro fue usurpado por su medio hermano Aegon II tras la muerte de su padre, desatando la devastadora guerra civil conocida como la Danza de Dragones. Orgullosa e inflexible, montaba a la dragona amarilla Syrax y lideraba a 'Los Negros'. Su breve y sangrienta toma de Desembarco del Rey terminó en disturbios, traición y su propia trágica muerte a manos de su hermano.",
+      "tags": ["Reina", "Jinete de Dragón", "Los Negros", "Heredera"]
+    }
+  },
+  {
+    "id": "aegon_2",
+    "birth_year": 107,
+    "death_year": 131,
+    "parents": ["viserys_1", "alicent_hightower"],
+    "spouses": ["helaena_targaryen"],
+    "children": [
+      "jaehaerys_targaryen_2",
+      "jaehaera_targaryen",
+      "maelor_targaryen"
+    ],
+    "dragon": "Sunfyre",
+    "image": null,
+    "en": {
+      "name": "Aegon II Targaryen",
+      "aliases": ["Aegon the Usurper", "Aegon the Elder"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms"
+      ],
+      "era": "The Dance of the Dragons",
+      "biography": "Aegon II was the eldest son of King Viserys I and Queen Alicent Hightower. Convinced by his mother and the small council that his family's lives would be forfeit if his half-sister Rhaenyra took the throne, he allowed himself to be crowned king, igniting the Dance. He rode Sunfyre, considered the most beautiful dragon in the world. Aegon suffered horrific, crippling burns during the war and ultimately outlived Rhaenyra only briefly before being poisoned by his own men.",
+      "tags": ["King", "Dragonrider", "The Greens"]
+    },
+    "es": {
+      "name": "Aegon II Targaryen",
+      "aliases": ["Aegon el Usurpador", "Aegon el Mayor"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos"
+      ],
+      "era": "La Danza de Dragones",
+      "biography": "Aegon II fue el hijo mayor del rey Viserys I y la reina Alicent Hightower. Convencido por su madre y el consejo privado de que las vidas de su familia correrían peligro si su media hermana Rhaenyra tomaba el trono, permitió ser coronado rey, encendiendo la Danza. Montaba a Sunfyre, considerado el dragón más hermoso del mundo. Aegon sufrió espantosas y paralizantes quemaduras durante la guerra y, en última instancia, sobrevivió a Rhaenyra solo brevemente antes de ser envenenado por sus propios hombres.",
+      "tags": ["Rey", "Jinete de Dragón", "Los Verdes"]
+    }
+  },
+  {
+    "id": "corlys_velaryon",
+    "birth_year": 53,
+    "death_year": 132,
+    "parents": [],
+    "spouses": ["rhaenys_targaryen_2"],
+    "children": ["laena_velaryon", "laenor_velaryon"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Corlys Velaryon",
+      "aliases": ["The Sea Snake"],
+      "titles": [
+        "Lord of the Tides",
+        "Master of Driftmark",
+        "Hand of the Queen"
+      ],
+      "era": "The Pre-Dance",
+      "biography": "Lord Corlys Velaryon, known as the Sea Snake, was the most legendary seafarer in Westerosi history. His nine great voyages to Essos brought unprecedented wealth to House Velaryon, making them richer than the Lannisters. He married Princess Rhaenys Targaryen and commanded the most powerful fleet in the world, becoming a massive, decisive military asset for the 'Blacks' during the Dance of the Dragons.",
+      "tags": ["Lord", "The Blacks", "Sailor"]
+    },
+    "es": {
+      "name": "Corlys Velaryon",
+      "aliases": ["La Serpiente Marina"],
+      "titles": [
+        "Señor de las Mareas",
+        "Señor de Marcaderiva",
+        "Mano de la Reina"
+      ],
+      "era": "La Pre-Danza",
+      "biography": "Lord Corlys Velaryon, conocido como la Serpiente Marina, fue el navegante más legendario en la historia de Poniente. Sus nueve grandes viajes a Essos trajeron una riqueza sin precedentes a la Casa Velaryon, haciéndolos más ricos que los Lannister. Se casó con la princesa Rhaenys Targaryen y comandó la flota más poderosa del mundo, convirtiéndose en un activo militar masivo y decisivo para 'Los Negros' durante la Danza de Dragones.",
+      "tags": ["Señor", "Los Negros", "Navegante"]
+    }
+  },
+  {
+    "id": "laena_velaryon",
+    "birth_year": 92,
+    "death_year": 120,
+    "parents": ["corlys_velaryon", "rhaenys_targaryen_2"],
+    "spouses": ["daemon_targaryen"],
+    "children": ["baela_targaryen", "rhaena_targaryen_2"],
+    "dragon": "Vhagar",
+    "image": null,
+    "en": {
+      "name": "Laena Velaryon",
+      "aliases": [],
+      "titles": ["Lady"],
+      "era": "The Pre-Dance",
+      "biography": "Lady Laena Velaryon was the daughter of the Sea Snake and the Queen Who Never Was. Bold and adventurous, she claimed the colossal, ancient dragon Vhagar when she was only twelve years old. She became the second wife of Prince Daemon Targaryen, flying with him across the Narrow Sea. Tragically, she died in childbed, choosing to command Vhagar to burn her rather than succumb to a slow, painful death.",
+      "tags": ["Lady", "Dragonrider"]
+    },
+    "es": {
+      "name": "Laena Velaryon",
+      "aliases": [],
+      "titles": ["Dama"],
+      "era": "La Pre-Danza",
+      "biography": "Lady Laena Velaryon era la hija de la Serpiente Marina y la Reina que Nunca Fue. Audaz y aventurera, reclamó a la colosal y antigua dragona Vhagar cuando tenía solo doce años. Se convirtió en la segunda esposa del príncipe Daemon Targaryen, volando con él a través del Mar Angosto. Trágicamente, murió en el lecho de parto, eligiendo ordenar a Vhagar que la quemara en lugar de sucumbir a una muerte lenta y dolorosa.",
+      "tags": ["Dama", "Jinete de Dragón"]
+    }
+  },
+  {
+    "id": "laenor_velaryon",
+    "birth_year": 94,
+    "death_year": 120,
+    "parents": ["corlys_velaryon", "rhaenys_targaryen_2"],
+    "spouses": ["rhaenyra_targaryen"],
+    "children": ["jacaerys_velaryon", "lucerys_velaryon", "joffrey_velaryon"],
+    "dragon": "Seasmoke",
+    "image": null,
+    "en": {
+      "name": "Laenor Velaryon",
+      "aliases": [],
+      "titles": ["Ser", "Heir to Driftmark"],
+      "era": "The Pre-Dance",
+      "biography": "Ser Laenor Velaryon was the son of the Sea Snake and the Queen Who Never Was. A skilled knight and dragonrider, he claimed the pale grey beast Seasmoke. To heal the rift between the Iron Throne and Driftmark, he was wed to his cousin, Princess Rhaenyra. Though they had a cordial arrangement, it was an open secret at court that Laenor preferred the company of men. He was murdered in Spicetown by his companion, Ser Qarl Correy, under mysterious circumstances.",
+      "tags": ["Knight", "Dragonrider", "The Blacks"]
+    },
+    "es": {
+      "name": "Laenor Velaryon",
+      "aliases": [],
+      "titles": ["Ser", "Heredero de Marcaderiva"],
+      "era": "La Pre-Danza",
+      "biography": "Ser Laenor Velaryon era el hijo de la Serpiente Marina y la Reina que Nunca Fue. Un hábil caballero y jinete de dragón, reclamó a la bestia gris pálida Bruma (Seasmoke). Para sanar la brecha entre el Trono de Hierro y Marcaderiva, fue casado con su prima, la princesa Rhaenyra. Aunque tenían un acuerdo cordial, era un secreto a voces en la corte que Laenor prefería la compañía de hombres. Fue asesinado en VillaEspecia por su compañero, Ser Qarl Correy, en circunstancias misteriosas.",
+      "tags": ["Caballero", "Jinete de Dragón", "Los Negros"]
+    }
+  },
+  {
+    "id": "helaena_targaryen",
+    "birth_year": 109,
+    "death_year": 130,
+    "parents": ["viserys_1", "alicent_hightower"],
+    "spouses": ["aegon_2"],
+    "children": [
+      "jaehaerys_targaryen_2",
+      "jaehaera_targaryen",
+      "maelor_targaryen"
+    ],
+    "dragon": "Dreamfyre",
+    "image": null,
+    "en": {
+      "name": "Helaena Targaryen",
+      "aliases": [],
+      "titles": ["Queen of the Seven Kingdoms"],
+      "era": "The Dance of the Dragons",
+      "biography": "Helaena Targaryen was the only daughter of Viserys I and Alicent Hightower. Sweet, gentle, and beloved by the smallfolk, she was wed to her older brother, Aegon II. She was a dragonrider, claiming the ancient she-dragon Dreamfyre, though she rarely flew. Helaena possessed prophetic dreams that were often ignored by her family. Following the horrific murder of her eldest son during the Blood and Cheese assassination, she sank into a deep madness and eventually ended her own life.",
+      "tags": ["Queen", "Dragonrider", "The Greens", "Dreamer"]
+    },
+    "es": {
+      "name": "Helaena Targaryen",
+      "aliases": [],
+      "titles": ["Reina de los Siete Reinos"],
+      "era": "La Danza de Dragones",
+      "biography": "Helaena Targaryen fue la única hija de Viserys I y Alicent Hightower. Dulce, gentil y amada por el pueblo llano, fue casada con su hermano mayor, Aegon II. Era jinete de dragón, habiendo reclamado a la antigua dragona Dreamfyre, aunque rara vez volaba. Helaena poseía sueños proféticos que a menudo eran ignorados por su familia. Tras el horrendo asesinato de su hijo mayor durante el atentado de Sangre y Queso, se hundió en una profunda locura y finalmente se quitó la vida.",
+      "tags": ["Reina", "Jinete de Dragón", "Los Verdes", "Soñadora"]
+    }
+  },
+  {
+    "id": "aemond_targaryen",
+    "birth_year": 110,
+    "death_year": 130,
+    "parents": ["viserys_1", "alicent_hightower"],
+    "spouses": [],
+    "children": [],
+    "dragon": "Vhagar",
+    "image": null,
+    "en": {
+      "name": "Aemond Targaryen",
+      "aliases": ["Aemond One-Eye", "The Kinslayer"],
+      "titles": ["Prince", "Protector of the Realm", "Prince Regent"],
+      "era": "The Dance of the Dragons",
+      "biography": "Aemond Targaryen was the fierce and unforgiving second son of Viserys I and Alicent. As a boy, he lost his eye in a vicious brawl with his Velaryon nephews shortly after claiming the largest living dragon in the world, Vhagar. Brilliant in battle but deeply arrogant and volatile, Aemond became the Greens' most lethal weapon. His murder of his nephew Lucerys over Shipbreaker Bay officially sparked the fiery violence of the Dance. He died in a spectacular aerial duel above the Gods Eye against his uncle, Daemon.",
+      "tags": ["Prince", "Dragonrider", "The Greens", "Warrior"]
+    },
+    "es": {
+      "name": "Aemond Targaryen",
+      "aliases": ["Aemond el Tuerto", "El Matalinares"],
+      "titles": ["Príncipe", "Protector del Reino", "Príncipe Regente"],
+      "era": "La Danza de Dragones",
+      "biography": "Aemond Targaryen fue el feroz e implacable segundo hijo de Viserys I y Alicent. De niño, perdió su ojo en una brutal pelea con sus sobrinos Velaryon poco después de reclamar al dragón vivo más grande del mundo, Vhagar. Brillante en la batalla pero profundamente arrogante y volátil, Aemond se convirtió en el arma más letal de los Verdes. El asesinato de su sobrino Lucerys sobre la Bahía de los Naufragios desató oficialmente la ardiente violencia de la Danza. Murió en un espectacular duelo aéreo sobre el Ojo de Dioses contra su tío, Daemon.",
+      "tags": ["Príncipe", "Jinete de Dragón", "Los Verdes", "Guerrero"]
+    }
+  },
+  {
+    "id": "daeron_targaryen",
+    "birth_year": 114,
+    "death_year": 130,
+    "parents": ["viserys_1", "alicent_hightower"],
+    "spouses": [],
+    "children": [],
+    "dragon": "Tessarion",
+    "image": null,
+    "en": {
+      "name": "Daeron Targaryen",
+      "aliases": ["Daeron the Daring"],
+      "titles": ["Prince"],
+      "era": "The Dance of the Dragons",
+      "biography": "Daeron the Daring was the youngest child of Viserys I and Alicent. Raised away from the toxic politics of King's Landing as a squire in Oldtown, he was considered the gentlest and most popular of Alicent's sons. Riding the beautiful Blue Queen, Tessarion, Daeron became a celebrated war hero for the Greens in the Reach, saving the Hightower army at the Battle of the Honeywine. He died tragically and mysteriously during the chaotic Second Battle of Tumbleton.",
+      "tags": ["Prince", "Dragonrider", "The Greens"]
+    },
+    "es": {
+      "name": "Daeron Targaryen",
+      "aliases": ["Daeron el Osado"],
+      "titles": ["Príncipe"],
+      "era": "La Danza de Dragones",
+      "biography": "Daeron el Osado fue el hijo menor de Viserys I y Alicent. Criado lejos de la tóxica política de Desembarco del Rey como escudero en Antigua, era considerado el más gentil y popular de los hijos de Alicent. Montando a la hermosa Reina Azul, Tessarion, Daeron se convirtió en un célebre héroe de guerra para los Verdes en el Dominio, salvando al ejército Hightower en la Batalla del Vinosmiel. Murió de manera trágica y misteriosa durante la caótica Segunda Batalla de Ladera.",
+      "tags": ["Príncipe", "Jinete de Dragón", "Los Verdes"]
+    }
+  },
+  {
+    "id": "jacaerys_velaryon",
+    "birth_year": 114,
+    "death_year": 130,
+    "parents": ["rhaenyra_targaryen", "laenor_velaryon"],
+    "spouses": [],
+    "children": [],
+    "dragon": "Vermax",
+    "image": null,
+    "en": {
+      "name": "Jacaerys Velaryon",
+      "aliases": ["Jace"],
+      "titles": ["Prince of Dragonstone", "Heir to the Iron Throne"],
+      "era": "The Dance of the Dragons",
+      "biography": "Jacaerys, known as Jace, was the eldest son of Princess Rhaenyra and her first husband, Ser Laenor Velaryon, though rumors heavily persisted that his true father was Ser Harwin Strong. Brave, responsible, and politically gifted, Jace acted as the primary diplomat for the 'Blacks', famously securing the North through the Pact of Ice and Fire with Cregan Stark. He rode the dragon Vermax and died a hero's death during the chaotic naval Battle of the Gullet.",
+      "tags": ["Prince", "Dragonrider", "The Blacks", "Heir"]
+    },
+    "es": {
+      "name": "Jacaerys Velaryon",
+      "aliases": ["Jace"],
+      "titles": ["Príncipe de Rocadragón", "Heredero del Trono de Hierro"],
+      "era": "La Danza de Dragones",
+      "biography": "Jacaerys, conocido como Jace, fue el hijo mayor de la princesa Rhaenyra y su primer esposo, Ser Laenor Velaryon, aunque persistían fuertes rumores de que su verdadero padre era Ser Harwin Strong. Valiente, responsable y políticamente dotado, Jace actuó como el principal diplomático de 'Los Negros', asegurando el Norte mediante el Pacto de Hielo y Fuego con Cregan Stark. Montó al dragón Vermax y tuvo una muerte heroica durante la caótica batalla naval del Gaznate.",
+      "tags": ["Príncipe", "Jinete de Dragón", "Los Negros", "Heredero"]
+    }
+  },
+  {
+    "id": "lucerys_velaryon",
+    "birth_year": 115,
+    "death_year": 129,
+    "parents": ["rhaenyra_targaryen", "laenor_velaryon"],
+    "spouses": [],
+    "children": [],
+    "dragon": "Arrax",
+    "image": null,
+    "en": {
+      "name": "Lucerys Velaryon",
+      "aliases": ["Luke"],
+      "titles": ["Prince", "Heir to Driftmark"],
+      "era": "The Dance of the Dragons",
+      "biography": "Lucerys, known as Luke, was the second son of Rhaenyra and Laenor, and the named heir to the Driftwood Throne of House Velaryon. As a boy, he slashed out Aemond Targaryen's eye during a fight. Years later, serving as an envoy for his mother, Luke was ambushed by a vengeful Aemond at Storm's End. Luke and his young dragon, Arrax, were torn from the sky over Shipbreaker Bay, marking the first major casualty of the Dance and guaranteeing a war of annihilation.",
+      "tags": ["Prince", "Dragonrider", "The Blacks"]
+    },
+    "es": {
+      "name": "Lucerys Velaryon",
+      "aliases": ["Luke"],
+      "titles": ["Príncipe", "Heredero de Marcaderiva"],
+      "era": "La Danza de Dragones",
+      "biography": "Lucerys, conocido como Luke, era el segundo hijo de Rhaenyra y Laenor, y el heredero nombrado al Trono de Madera de Deriva de la Casa Velaryon. De niño, le cortó el ojo a Aemond Targaryen durante una pelea. Años después, sirviendo como enviado de su madre, Luke fue emboscado por un vengativo Aemond en Bastión de Tormentas. Luke y su joven dragón, Arrax, fueron derribados del cielo sobre la Bahía de los Naufragios, marcando la primera gran baja de la Danza y garantizando una guerra de aniquilación.",
+      "tags": ["Príncipe", "Jinete de Dragón", "Los Negros"]
+    }
+  },
+  {
+    "id": "joffrey_velaryon",
+    "birth_year": 117,
+    "death_year": 130,
+    "parents": ["rhaenyra_targaryen", "laenor_velaryon"],
+    "spouses": [],
+    "children": [],
+    "dragon": "Tyraxes",
+    "image": null,
+    "en": {
+      "name": "Joffrey Velaryon",
+      "aliases": ["Joff"],
+      "titles": ["Prince"],
+      "era": "The Dance of the Dragons",
+      "biography": "Joffrey was the youngest of Rhaenyra's sons by Laenor Velaryon, named in honor of Laenor's fallen companion, Joffrey Lonmouth. Eager to prove himself in the war, he was forbidden from fighting due to his youth. During the devastating Storming of the Dragonpit in King's Landing, a desperate Joffrey mounted his mother's dragon, Syrax, to save the trapped dragons. Unaccustomed to him, Syrax bucked him off mid-flight, and he plunged to his death.",
+      "tags": ["Prince", "Dragonrider", "The Blacks"]
+    },
+    "es": {
+      "name": "Joffrey Velaryon",
+      "aliases": ["Joff"],
+      "titles": ["Príncipe"],
+      "era": "La Danza de Dragones",
+      "biography": "Joffrey era el menor de los hijos de Rhaenyra con Laenor Velaryon, nombrado en honor al compañero caído de Laenor, Joffrey Lonmouth. Ansioso por demostrar su valía en la guerra, se le prohibió luchar debido a su juventud. Durante el devastador Asalto al Pozo Dragón en Desembarco del Rey, un desesperado Joffrey montó a la dragona de su madre, Syrax, para salvar a los dragones atrapados. Poco acostumbrada a él, Syrax lo derribó en pleno vuelo, y Joffrey se precipitó hacia su muerte.",
+      "tags": ["Príncipe", "Jinete de Dragón", "Los Negros"]
+    }
+  },
+  {
+    "id": "baela_targaryen",
+    "birth_year": 116,
+    "death_year": 160,
+    "parents": ["daemon_targaryen", "laena_velaryon"],
+    "spouses": [],
+    "children": [],
+    "dragon": "Moondancer",
+    "image": null,
+    "en": {
+      "name": "Baela Targaryen",
+      "aliases": [],
+      "titles": ["Princess"],
+      "era": "The Dance of the Dragons",
+      "biography": "Princess Baela was the eldest twin daughter of Prince Daemon Targaryen and Lady Laena Velaryon. Fierce, wild, and taking heavily after her rogue father, Baela was a true warrior at heart. When Dragonstone fell to Aegon II in the final days of the war, Baela bravely mounted her young dragon, Moondancer, and engaged the King and his massive dragon Sunfyre in a brutal aerial duel. She survived the fall and lived to see her half-brother crowned king.",
+      "tags": ["Princess", "Dragonrider", "The Blacks", "Warrior"]
+    },
+    "es": {
+      "name": "Baela Targaryen",
+      "aliases": [],
+      "titles": ["Princesa"],
+      "era": "La Danza de Dragones",
+      "biography": "La princesa Baela era la mayor de las hijas gemelas del príncipe Daemon Targaryen y Lady Laena Velaryon. Fiera, salvaje y muy parecida a su rebelde padre, Baela era una verdadera guerrera de corazón. Cuando Rocadragón cayó ante Aegon II en los últimos días de la guerra, Baela montó valientemente a su joven dragona, Danzarina Lunar (Moondancer), y se enfrentó al Rey y a su enorme dragón Sunfyre en un brutal duelo aéreo. Sobrevivió a la caída y vivió para ver a su medio hermano coronado rey.",
+      "tags": ["Princesa", "Jinete de Dragón", "Los Negros", "Guerrera"]
+    }
+  },
+  {
+    "id": "rhaena_targaryen_2",
+    "birth_year": 116,
+    "death_year": 160,
+    "parents": ["daemon_targaryen", "laena_velaryon"],
+    "spouses": [],
+    "children": [],
+    "dragon": "Morning",
+    "image": null,
+    "en": {
+      "name": "Rhaena Targaryen",
+      "aliases": ["Rhaena of Pentos"],
+      "titles": ["Princess"],
+      "era": "The Dance of the Dragons",
+      "biography": "Princess Rhaena was the younger twin of Baela. Unlike her sister, Rhaena struggled for years to claim a dragon, feeling deeply inadequate. During the Dance, she was sent to the Vale of Arryn for her protection. While there, one of her eggs finally hatched into the pale pink dragon, Morning. As one of the few dragons to survive the war, Morning became a powerful symbol of hope during the regency of Aegon III.",
+      "tags": ["Princess", "Dragonrider", "The Blacks"]
+    },
+    "es": {
+      "name": "Rhaena Targaryen",
+      "aliases": ["Rhaena de Pentos"],
+      "titles": ["Princesa"],
+      "era": "La Danza de Dragones",
+      "biography": "La princesa Rhaena era la gemela menor de Baela. A diferencia de su hermana, Rhaena luchó durante años para reclamar un dragón, sintiéndose profundamente inadecuada. Durante la Danza, fue enviada al Valle de Arryn para su protección. Mientras estaba allí, uno de sus huevos finalmente eclosionó dando lugar a la dragona rosa pálido, Alba (Morning). Como una de las pocas dragonas en sobrevivir a la guerra, Alba se convirtió en un poderoso símbolo de esperanza durante la regencia de Aegon III.",
+      "tags": ["Princesa", "Jinete de Dragón", "Los Negros"]
+    }
+  },
+  {
+    "id": "jaehaerys_targaryen_2",
+    "birth_year": 123,
+    "death_year": 129,
+    "parents": ["aegon_2", "helaena_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": "Shrykos",
+    "image": null,
+    "en": {
+      "name": "Jaehaerys Targaryen",
+      "aliases": [],
+      "titles": ["Prince", "Heir to the Iron Throne"],
+      "era": "The Dance of the Dragons",
+      "biography": "Prince Jaehaerys was the eldest son and heir of King Aegon II, and the twin brother of Jaehaera. His life was brutally cut short at the age of six in retaliation for the death of Lucerys Velaryon. Two assassins, known to history only as Blood and Cheese, infiltrated the Red Keep and forced Queen Helaena to choose which of her sons would die. Though she offered her own life and eventually chose Maelor, the assassins beheaded Jaehaerys instead, inflicting a trauma from which Helaena never recovered.",
+      "tags": ["Prince", "The Greens", "Heir"]
+    },
+    "es": {
+      "name": "Jaehaerys Targaryen",
+      "aliases": [],
+      "titles": ["Príncipe", "Heredero del Trono de Hierro"],
+      "era": "La Danza de Dragones",
+      "biography": "El príncipe Jaehaerys era el hijo mayor y heredero del rey Aegon II, y el hermano gemelo de Jaehaera. Su vida fue brutalmente truncada a la edad de seis años en represalia por la muerte de Lucerys Velaryon. Dos asesinos, conocidos en la historia solo como Sangre y Queso, se infiltraron en la Fortaleza Roja y obligaron a la reina Helaena a elegir cuál de sus hijos moriría. Aunque ella ofreció su propia vida y finalmente eligió a Maelor, los asesinos decapitaron a Jaehaerys en su lugar, infligiendo un trauma del que Helaena nunca se recuperó.",
+      "tags": ["Príncipe", "Los Verdes", "Heredero"]
+    }
+  },
+  {
+    "id": "jaehaera_targaryen",
+    "birth_year": 123,
+    "death_year": 133,
+    "parents": ["aegon_2", "helaena_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": "Morghul",
+    "image": null,
+    "en": {
+      "name": "Jaehaera Targaryen",
+      "aliases": [],
+      "titles": ["Princess", "Queen of the Seven Kingdoms"],
+      "era": "The Dance of the Dragons",
+      "biography": "Princess Jaehaera was the twin sister of Jaehaerys. A sweet but deeply traumatized girl, she survived the horrors of the Dance of the Dragons and the deaths of her entire immediate family. In a political move to unite the fractured realm and end the war, she was wed to her cousin, King Aegon III (son of Rhaenyra). Tragically, their union was brief; Jaehaera died under highly suspicious circumstances, allegedly throwing herself from the Red Keep in an echo of her mother's death.",
+      "tags": ["Queen", "Princess", "The Greens"]
+    },
+    "es": {
+      "name": "Jaehaera Targaryen",
+      "aliases": [],
+      "titles": ["Princesa", "Reina de los Siete Reinos"],
+      "era": "La Danza de Dragones",
+      "biography": "La princesa Jaehaera era la hermana gemela de Jaehaerys. Una niña dulce pero profundamente traumatizada, sobrevivió a los horrores de la Danza de Dragones y a las muertes de toda su familia inmediata. En una maniobra política para unir el reino fracturado y poner fin a la guerra, fue casada con su primo, el rey Aegon III (hijo de Rhaenyra). Trágicamente, su unión fue breve; Jaehaera murió en circunstancias muy sospechosas, presuntamente arrojándose desde la Fortaleza Roja en un eco de la muerte de su madre.",
+      "tags": ["Reina", "Princesa", "Los Verdes"]
+    }
+  },
+  {
+    "id": "maelor_targaryen",
+    "birth_year": 127,
+    "death_year": 130,
+    "parents": ["aegon_2", "helaena_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Maelor Targaryen",
+      "aliases": [],
+      "titles": ["Prince"],
+      "era": "The Dance of the Dragons",
+      "biography": "Prince Maelor was the youngest child of Aegon II and Helaena. During the horrific Blood and Cheese assassination, his mother was forced to point to him as the child to be killed, though his brother was murdered instead. Following the fall of King's Landing to Rhaenyra, Maelor was smuggled out of the city by Lord Larys Strong's agents. Tragically, he was discovered by an angry mob at Bitterbridge and torn apart as they fought over the prize of a royal prince.",
+      "tags": ["Prince", "The Greens"]
+    },
+    "es": {
+      "name": "Maelor Targaryen",
+      "aliases": [],
+      "titles": ["Príncipe"],
+      "era": "La Danza de Dragones",
+      "biography": "El príncipe Maelor fue el hijo menor de Aegon II y Helaena. Durante el horrendo asesinato a manos de Sangre y Queso, su madre fue obligada a señalarlo como el niño que debía morir, aunque su hermano fue asesinado en su lugar. Tras la caída de Desembarco del Rey ante Rhaenyra, Maelor fue sacado de contrabando de la ciudad por los agentes de Lord Larys Strong. Trágicamente, fue descubierto por una turba enfurecida en Puenteamargo y despedazado mientras peleaban por el premio de un príncipe real.",
+      "tags": ["Príncipe", "Los Verdes"]
+    }
+  },
+  {
+    "id": "aegon_3",
+    "birth_year": 120,
+    "death_year": 157,
+    "parents": ["rhaenyra_targaryen", "daemon_targaryen"],
+    "spouses": ["jaehaera_targaryen", "daenaera_velaryon"],
+    "children": [
+      "daeron_1",
+      "baelor_1",
+      "daena_targaryen",
+      "rhaena_targaryen_3",
+      "elaena_targaryen"
+    ],
+    "dragon": "Stormcloud",
+    "image": null,
+    "en": {
+      "name": "Aegon III Targaryen",
+      "aliases": [
+        "Aegon the Younger",
+        "Aegon the Dragonbane",
+        "The Broken King"
+      ],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms"
+      ],
+      "era": "The Regency",
+      "biography": "Aegon III, originally known as Aegon the Younger, was profoundly traumatized during the Dance of the Dragons, most notably by being forced to watch his mother, Rhaenyra, be devoured by Aegon II's dragon. He succeeded his uncle to the Iron Throne, ruling through a long, highly contested regency. Melancholic, cold, and deeply depressed, his reign saw the death of the last Targaryen dragon, earning him the moniker 'Dragonbane'. To help heal the realm, he was wed to his cousin, Jaehaera Targaryen, uniting the Black and Green bloodlines.",
+      "tags": ["King", "Dragonrider", "The Blacks"]
+    },
+    "es": {
+      "name": "Aegon III Targaryen",
+      "aliases": ["Aegon el Menor", "Aegon Veneno de Dragón", "El Rey Roto"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos"
+      ],
+      "era": "La Regencia",
+      "biography": "Aegon III, originalmente conocido como Aegon el Menor, quedó profundamente traumatizado durante la Danza de Dragones, más notablemente al ser obligado a ver a su madre, Rhaenyra, ser devorada por el dragón de Aegon II. Sucedió a su tío en el Trono de Hierro, gobernando a través de una larga y muy disputada regencia. Melancólico, frío y profundamente deprimido, su reinado presenció la muerte del último dragón Targaryen, lo que le valió el apodo de 'Veneno de Dragón'. Para ayudar a sanar el reino, fue casado con su prima, Jaehaera Targaryen, uniendo las líneas de sangre Negra y Verde.",
+      "tags": ["Rey", "Jinete de Dragón", "Los Negros"]
+    }
+  },
+  {
+    "id": "viserys_2",
+    "birth_year": 122,
+    "death_year": 172,
+    "parents": ["rhaenyra_targaryen", "daemon_targaryen"],
+    "spouses": ["larra_rogare"],
+    "children": ["aegon_4", "aemon_dragonknight", "naerys_targaryen"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Viserys II Targaryen",
+      "aliases": [],
+      "titles": [
+        "Hand of the King",
+        "King of the Andals, the Rhoynar, and the First Men"
+      ],
+      "era": "The Post-Dance",
+      "biography": "Viserys II was the youngest son of Rhaenyra and Daemon. During the Battle of the Gullet, he was presumed dead, breaking his mother's heart. In reality, he was captured and taken to Lys, returning to Westeros years later with a Lysene bride, Larra Rogare. Brilliant, shrewd, and fiercely loyal, Viserys served as Hand of the King to his brother Aegon III and two of his nephews, essentially holding the realm together for decades before finally taking the Iron Throne himself for a brief, one-year reign.",
+      "tags": ["King", "Hand of the King", "The Blacks"]
+    },
+    "es": {
+      "name": "Viserys II Targaryen",
+      "aliases": [],
+      "titles": [
+        "Mano del Rey",
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres"
+      ],
+      "era": "La Posdanza",
+      "biography": "Viserys II era el hijo menor de Rhaenyra y Daemon. Durante la Batalla del Gaznate, se le dio por muerto, rompiendo el corazón de su madre. En realidad, fue capturado y llevado a Lys, regresando a Poniente años después con una novia lysena, Larra Rogare. Brillante, astuto y ferozmente leal, Viserys sirvió como Mano del Rey para su hermano Aegon III y dos de sus sobrinos, manteniendo esencialmente unido el reino durante décadas antes de finalmente tomar él mismo el Trono de Hierro para un breve reinado de un año.",
+      "tags": ["Rey", "Mano del Rey", "Los Negros"]
+    }
+  },
+  {
+    "id": "visenya_targaryen_2",
+    "birth_year": 129,
+    "death_year": 129,
+    "parents": ["rhaenyra_targaryen", "daemon_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Visenya Targaryen",
+      "aliases": [],
+      "titles": ["Princess"],
+      "era": "The Dance of the Dragons",
+      "biography": "Princess Visenya was the only daughter of Rhaenyra and Daemon. Upon receiving the devastating news that her father had died and her half-brother Aegon II had usurped the throne, Rhaenyra went into premature, agonizing labor. Visenya was stillborn and malformed, described as having a tail and a hole in her chest where her heart should have been. Her tragic birth fueled Rhaenyra's devastating wrath against the Greens.",
+      "tags": ["Princess", "Infant"]
+    },
+    "es": {
+      "name": "Visenya Targaryen",
+      "aliases": [],
+      "titles": ["Princesa"],
+      "era": "La Danza de Dragones",
+      "biography": "La princesa Visenya fue la única hija de Rhaenyra y Daemon. Al recibir la devastadora noticia de que su padre había muerto y su medio hermano Aegon II había usurpado el trono, Rhaenyra entró en un parto prematuro y agónico. Visenya nació muerta y malformada, descrita con una cola y un agujero en el pecho donde debería haber estado su corazón. Su trágico nacimiento alimentó la devastadora ira de Rhaenyra contra los Verdes.",
+      "tags": ["Princesa", "Infante"]
+    }
+  },
+  {
+    "id": "daenaera_velaryon",
+    "birth_year": 127,
+    "death_year": null,
+    "parents": [],
+    "spouses": ["aegon_3"],
+    "children": [
+      "daeron_1",
+      "baelor_1",
+      "daena_targaryen",
+      "rhaena_targaryen_3",
+      "elaena_targaryen"
+    ],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Daenaera Velaryon",
+      "aliases": [],
+      "titles": ["Queen of the Seven Kingdoms"],
+      "era": "The Regency",
+      "biography": "Daenaera Velaryon was introduced to the brooding, traumatized King Aegon III at the Maiden's Day Ball following the tragic death of his first wife. Though he was cold and distant, she eventually won a place by his side, bringing life back into the Red Keep and giving him five children who would go on to reshape the realm.",
+      "tags": ["Queen"]
+    },
+    "es": {
+      "name": "Daenaera Velaryon",
+      "aliases": [],
+      "titles": ["Reina de los Siete Reinos"],
+      "era": "La Regencia",
+      "biography": "Daenaera Velaryon fue presentada al sombrío y traumatizado rey Aegon III en el Baile del Día de la Doncella, tras la trágica muerte de su primera esposa. Aunque él era frío y distante, ella finalmente se ganó un lugar a su lado, devolviendo la vida a la Fortaleza Roja y dándole cinco hijos que más tarde reformarían el reino.",
+      "tags": ["Reina"]
+    }
+  },
+  {
+    "id": "daeron_1",
+    "birth_year": 143,
+    "death_year": 161,
+    "parents": ["aegon_3", "daenaera_velaryon"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Daeron I Targaryen",
+      "aliases": ["The Young Dragon", "The Boy King"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms"
+      ],
+      "era": "The Conquest of Dorne",
+      "biography": "Crowned at just fourteen, Daeron I was a brilliant and fiercely ambitious military commander who succeeded where even Aegon the Conqueror had failed: he conquered Dorne. Though the dragons were all dead, Daeron famously declared, 'You have a dragon. He stands before you.' His victory was short-lived, however. A massive Dornish rebellion undid his conquest, and Daeron was murdered under a peace banner at the age of eighteen.",
+      "tags": ["King", "Warrior"]
+    },
+    "es": {
+      "name": "Daeron I Targaryen",
+      "aliases": ["El Joven Dragón", "El Rey Niño"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos"
+      ],
+      "era": "La Conquista de Dorne",
+      "biography": "Coronado con tan solo catorce años, Daeron I fue un comandante militar brillante y ferozmente ambicioso que triunfó donde incluso Aegon el Conquistador había fracasado: conquistó Dorne. Aunque todos los dragones habían muerto, Daeron declaró célebremente: 'Tenéis un dragón. Está frente a vosotros'. Su victoria, sin embargo, fue efímera. Una rebelión masiva dorniense deshizo su conquista, y Daeron fue asesinado bajo un estandarte de paz a la edad de dieciocho años.",
+      "tags": ["Rey", "Guerrero"]
+    }
+  },
+  {
+    "id": "baelor_1",
+    "birth_year": 144,
+    "death_year": 171,
+    "parents": ["aegon_3", "daenaera_velaryon"],
+    "spouses": ["daena_targaryen"],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Baelor I Targaryen",
+      "aliases": ["Baelor the Blessed", "The Septon King"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms"
+      ],
+      "era": "The Conquest of Dorne",
+      "biography": "Succeeding his brother Daeron, Baelor I was a deeply pious, peaceful, and erratic king. He famously walked barefoot through the Boneway to broker peace with Dorne and rescue his cousin, Aemon the Dragonknight, from a pit of vipers. He built the Great Sept in King's Landing, annulled his unconsummated marriage to his sister Daena, and locked his sisters in the Maidenvault to avoid carnal temptation. He eventually fasted himself to death.",
+      "tags": ["King", "Septon", "Zealot"]
+    },
+    "es": {
+      "name": "Baelor I Targaryen",
+      "aliases": ["Baelor el Bendito", "El Rey Septón"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos"
+      ],
+      "era": "La Conquista de Dorne",
+      "biography": "Sucediendo a su hermano Daeron, Baelor I fue un rey profundamente piadoso, pacífico y errático. Es famoso por caminar descalzo por el Paso del Príncipe para negociar la paz con Dorne y rescatar a su primo, Aemon el Caballero Dragón, de un foso de víboras. Construyó el Gran Septo en Desembarco del Rey, anuló su matrimonio no consumado con su hermana Daena y encerró a sus hermanas en la Bóveda de las Doncellas para evitar la tentación carnal. Finalmente ayunó hasta la muerte.",
+      "tags": ["Rey", "Septón", "Fanático"]
+    }
+  },
+  {
+    "id": "daena_targaryen",
+    "birth_year": 145,
+    "death_year": null,
+    "parents": ["aegon_3", "daenaera_velaryon"],
+    "spouses": ["baelor_1", "aegon_4"],
+    "children": ["daemon_blackfyre"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Daena Targaryen",
+      "aliases": ["Daena the Defiant"],
+      "titles": ["Princess"],
+      "era": "The Conquest of Dorne",
+      "biography": "The eldest daughter of Aegon III, Daena was wild, athletic, and fiercely willful. Unhappily married to her pious brother Baelor, she was outraged when he annulled their marriage and locked her in the Maidenvault. True to her moniker, 'The Defiant,' she escaped her confinement multiple times. During one of these escapes, she had an affair with her cousin, Prince Aegon (the future Aegon IV), giving birth to the bastard Daemon Waters—later known as Daemon Blackfyre.",
+      "tags": ["Princess", "The Maidenvault"]
+    },
+    "es": {
+      "name": "Daena Targaryen",
+      "aliases": ["Daena la Desafiante"],
+      "titles": ["Princesa"],
+      "era": "La Conquista de Dorne",
+      "biography": "La hija mayor de Aegon III, Daena era salvaje, atlética y ferozmente obstinada. Infelizmente casada con su piadoso hermano Baelor, se indignó cuando él anuló su matrimonio y la encerró en la Bóveda de las Doncellas. Fiel a su apodo, 'La Desafiante', escapó de su encierro en múltiples ocasiones. Durante una de estas fugas, tuvo una aventura con su primo, el príncipe Aegon (el futuro Aegon IV), dando a luz al bastardo Daemon Mares, más tarde conocido como Daemon Fuegonegro.",
+      "tags": ["Princesa", "La Bóveda de las Doncellas"]
+    }
+  },
+  {
+    "id": "rhaena_targaryen_3",
+    "birth_year": 147,
+    "death_year": null,
+    "parents": ["aegon_3", "daenaera_velaryon"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Rhaena Targaryen",
+      "aliases": [],
+      "titles": ["Princess", "Septa"],
+      "era": "The Conquest of Dorne",
+      "biography": "Unlike her rebellious sisters, Rhaena was gentle, placid, and deeply religious. When Baelor locked her in the Maidenvault, she did not fight her confinement, instead embracing the piety imposed upon her. She eventually took holy vows and lived the remainder of her life as a respected septa.",
+      "tags": ["Princess", "Septa", "The Maidenvault"]
+    },
+    "es": {
+      "name": "Rhaena Targaryen",
+      "aliases": [],
+      "titles": ["Princesa", "Septa"],
+      "era": "La Conquista de Dorne",
+      "biography": "A diferencia de sus rebeldes hermanas, Rhaena era gentil, plácida y profundamente religiosa. Cuando Baelor la encerró en la Bóveda de las Doncellas, no luchó contra su confinamiento, sino que abrazó la piedad que se le impuso. Finalmente tomó los votos sagrados y vivió el resto de su vida como una respetada septa.",
+      "tags": ["Princesa", "Septa", "La Bóveda de las Doncellas"]
+    }
+  },
+  {
+    "id": "elaena_targaryen",
+    "birth_year": 150,
+    "death_year": 220,
+    "parents": ["aegon_3", "daenaera_velaryon"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Elaena Targaryen",
+      "aliases": [],
+      "titles": ["Princess"],
+      "era": "The Conquest of Dorne",
+      "biography": "The youngest of Aegon III's daughters, Elaena was shrewd, fiercely intelligent, and long-lived. To spite Baelor for locking her in the Maidenvault, she famously chopped off her long silver-gold hair. Outliving all her siblings by decades, she had multiple marriages and affairs (most notably with Alyn Velaryon) and essentially served as the realm's Master of Coin in all but name during the reign of King Daeron II.",
+      "tags": ["Princess", "The Maidenvault"]
+    },
+    "es": {
+      "name": "Elaena Targaryen",
+      "aliases": [],
+      "titles": ["Princesa"],
+      "era": "La Conquista de Dorne",
+      "biography": "La menor de las hijas de Aegon III, Elaena era astuta, ferozmente inteligente y longeva. Para enfurecer a Baelor por encerrarla en la Bóveda de las Doncellas, se cortó su largo cabello oro y plata de forma célebre. Sobreviviendo a todos sus hermanos por décadas, tuvo múltiples matrimonios y aventuras (la más notable con Alyn Velaryon) y esencialmente sirvió como Consejera de la Moneda del reino en todo menos en el nombre durante el reinado del rey Daeron II.",
+      "tags": ["Princesa", "La Bóveda de las Doncellas"]
+    }
+  },
+  {
+    "id": "larra_rogare",
+    "birth_year": 115,
+    "death_year": 145,
+    "parents": [],
+    "spouses": ["viserys_2"],
+    "children": ["aegon_4", "aemon_dragonknight", "naerys_targaryen"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Larra Rogare",
+      "aliases": [],
+      "titles": ["Lady"],
+      "era": "The Post-Dance",
+      "biography": "Larra Rogare was a wealthy and beautiful noblewoman from the Free City of Lys. She married the young Viserys II during his time in exile after the Battle of the Gullet. Coming to King's Landing, she never truly felt at home in Westeros or comfortable with its customs. After giving birth to three children, she eventually abandoned Viserys and the Seven Kingdoms entirely, sailing back to Lys and breaking her husband's heart.",
+      "tags": ["Lady", "Lysene"]
+    },
+    "es": {
+      "name": "Larra Rogare",
+      "aliases": [],
+      "titles": ["Dama"],
+      "era": "La Posdanza",
+      "biography": "Larra Rogare era una noble rica y hermosa de la Ciudad Libre de Lys. Se casó con el joven Viserys II durante su tiempo de exilio tras la Batalla del Gaznate. Al llegar a Desembarco del Rey, nunca se sintió verdaderamente en casa en Poniente ni cómoda con sus costumbres. Después de dar a luz a tres hijos, finalmente abandonó a Viserys y a los Siete Reinos por completo, navegando de regreso a Lys y rompiendo el corazón de su esposo.",
+      "tags": ["Dama", "Lysena"]
+    }
+  },
+  {
+    "id": "aegon_4",
+    "birth_year": 135,
+    "death_year": 184,
+    "parents": ["viserys_2", "larra_rogare"],
+    "spouses": [
+      "naerys_targaryen",
+      "daena_targaryen",
+      "barba_bracken",
+      "melissa_blackwood",
+      "serenei_lys"
+    ],
+    "children": [
+      "daeron_2",
+      "daemon_blackfyre",
+      "aegor_rivers",
+      "brynden_rivers",
+      "shiera_seastar"
+    ],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Aegon IV Targaryen",
+      "aliases": ["Aegon the Unworthy"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms"
+      ],
+      "era": "The Great Bastards",
+      "biography": "Aegon IV is universally remembered as the worst Targaryen king in history, earning the title 'The Unworthy'. Handsome and charming in his youth, he grew incredibly gluttonous, corrupt, and cruel as he aged. He openly despised his sister-wife Naerys and his trueborn heir Daeron. Instead, he sired dozens of bastards—most notably the 'Great Bastards'—and, in his ultimate act of spite on his deathbed, legitimized all of them, plunging the realm into five generations of bloody Blackfyre Rebellions.",
+      "tags": ["King", "The Unworthy"]
+    },
+    "es": {
+      "name": "Aegon IV Targaryen",
+      "aliases": ["Aegon el Indigno"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos"
+      ],
+      "era": "Los Grandes Bastardos",
+      "biography": "Aegon IV es recordado universalmente como el peor rey Targaryen de la historia, ganándose el título de 'El Indigno'. Apuesto y encantador en su juventud, se volvió increíblemente glotón, corrupto y cruel al envejecer. Despreciaba abiertamente a su hermana-esposa Naerys y a su heredero legítimo Daeron. En su lugar, engendró decenas de bastardos —más notablemente los 'Grandes Bastardos'— y, en su último acto de rencor en su lecho de muerte, los legitimó a todos, sumiendo al reino en cinco generaciones de sangrientas Rebeliones Fuegonegro.",
+      "tags": ["Rey", "El Indigno"]
+    }
+  },
+  {
+    "id": "aemon_dragonknight",
+    "birth_year": 136,
+    "death_year": 178,
+    "parents": ["viserys_2", "larra_rogare"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Aemon Targaryen",
+      "aliases": ["Aemon the Dragonknight"],
+      "titles": ["Prince", "Lord Commander of the Kingsguard"],
+      "era": "The Post-Dance",
+      "biography": "Prince Aemon the Dragonknight is considered the noblest and most legendary knight in the history of Westeros. Wielding the Valyrian steel blade Dark Sister, he served in the Kingsguard under five different kings. He shared a deeply tragic, unrequited love with his sister Naerys, who was forced to marry their cruel brother Aegon. Despite Aegon's constant mockery and rumors that Aemon was the true father of the crown prince, Aemon faithfully gave his life defending Aegon IV from an assassination attempt.",
+      "tags": ["Prince", "Kingsguard", "Knight"]
+    },
+    "es": {
+      "name": "Aemon Targaryen",
+      "aliases": ["Aemon el Caballero Dragón"],
+      "titles": ["Príncipe", "Lord Comandante de la Guardia Real"],
+      "era": "La Posdanza",
+      "biography": "El príncipe Aemon el Caballero Dragón es considerado el caballero más noble y legendario en la historia de Poniente. Blandiendo la espada de acero valyrio Hermana Oscura, sirvió en la Guardia Real bajo cinco reyes diferentes. Compartía un amor profundamente trágico y no correspondido con su hermana Naerys, quien fue obligada a casarse con su cruel hermano Aegon. A pesar de las constantes burlas de Aegon y los rumores de que Aemon era el verdadero padre del príncipe heredero, Aemon dio fielmente su vida defendiendo a Aegon IV de un intento de asesinato.",
+      "tags": ["Príncipe", "Guardia Real", "Caballero"]
+    }
+  },
+  {
+    "id": "naerys_targaryen",
+    "birth_year": 138,
+    "death_year": 178,
+    "parents": ["viserys_2", "larra_rogare"],
+    "spouses": ["aegon_4"],
+    "children": ["daeron_2"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Naerys Targaryen",
+      "aliases": [],
+      "titles": ["Queen of the Seven Kingdoms"],
+      "era": "The Post-Dance",
+      "biography": "Princess Naerys was frail, gentle, and deeply devout, wishing only to become a septa. Instead, she was forced to marry her brother Aegon, a man she abhorred. She shared a profound, tragic bond with her other brother, Aemon the Dragonknight, who championed her honor at every turn. Her marriage to Aegon was a living nightmare, plagued by his constant infidelities and cruelty. She died in childbed shortly after Aemon was killed defending her husband.",
+      "tags": ["Queen", "Tragic"]
+    },
+    "es": {
+      "name": "Naerys Targaryen",
+      "aliases": [],
+      "titles": ["Reina de los Siete Reinos"],
+      "era": "La Posdanza",
+      "biography": "La princesa Naerys era frágil, gentil y profundamente devota, y solo deseaba convertirse en septa. En cambio, fue obligada a casarse con su hermano Aegon, un hombre que aborrecía. Compartía un vínculo profundo y trágico con su otro hermano, Aemon el Caballero Dragón, quien defendió su honor en todo momento. Su matrimonio con Aegon fue una pesadilla viviente, plagado por sus constantes infidelidades y crueldad. Murió en el lecho de parto poco después de que Aemon fuera asesinado defendiendo a su esposo.",
+      "tags": ["Reina", "Trágica"]
+    }
+  },
+  {
+    "id": "barba_bracken",
+    "birth_year": 155,
+    "death_year": null,
+    "parents": [],
+    "spouses": ["aegon_4"],
+    "children": ["aegor_rivers"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Barba Bracken",
+      "aliases": [],
+      "titles": ["Lady"],
+      "era": "The Great Bastards",
+      "biography": "Lady Barba Bracken was one of the many mistresses of King Aegon IV. Ambitious and fiery, she was heavily favored at court until she was displaced by her house's bitter rival, Melissa Blackwood. She gave birth to Aegor Rivers, passing her fierce, combative nature down to him.",
+      "tags": ["Lady", "Mistress"]
+    },
+    "es": {
+      "name": "Barba Bracken",
+      "aliases": [],
+      "titles": ["Dama"],
+      "era": "Los Grandes Bastardos",
+      "biography": "Lady Barba Bracken fue una de las muchas amantes del rey Aegon IV. Ambiciosa y fogosa, fue muy favorecida en la corte hasta que fue desplazada por la acérrima rival de su casa, Melissa Blackwood. Dio a luz a Aegor Ríos, transmitiéndole su naturaleza feroz y combativa.",
+      "tags": ["Dama", "Amante"]
+    }
+  },
+  {
+    "id": "melissa_blackwood",
+    "birth_year": 158,
+    "death_year": null,
+    "parents": [],
+    "spouses": ["aegon_4"],
+    "children": ["brynden_rivers"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Melissa Blackwood",
+      "aliases": ["Missy"],
+      "titles": ["Lady"],
+      "era": "The Great Bastards",
+      "biography": "Lady Melissa Blackwood, known as Missy, was perhaps the best-loved of Aegon IV's mistresses. Unlike Barba Bracken, Missy was kind-hearted and befriended even the King's trueborn wife, Queen Naerys, and his heir, Daeron. She gave birth to three bastards, the most famous being Brynden Rivers.",
+      "tags": ["Lady", "Mistress"]
+    },
+    "es": {
+      "name": "Melissa Blackwood",
+      "aliases": ["Missy"],
+      "titles": ["Dama"],
+      "era": "Los Grandes Bastardos",
+      "biography": "Lady Melissa Blackwood, conocida como Missy, fue quizás la más amada de las amantes de Aegon IV. A diferencia de Barba Bracken, Missy era de buen corazón y se hizo amiga incluso de la esposa legítima del Rey, la reina Naerys, y de su heredero, Daeron. Dio a luz a tres bastardos, el más famoso de los cuales es Brynden Ríos.",
+      "tags": ["Dama", "Amante"]
+    }
+  },
+  {
+    "id": "serenei_lys",
+    "birth_year": null,
+    "death_year": null,
+    "parents": [],
+    "spouses": ["aegon_4"],
+    "children": ["shiera_seastar"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Serenei of Lys",
+      "aliases": ["Sweet Serenei"],
+      "titles": ["Lady"],
+      "era": "The Great Bastards",
+      "biography": "Serenei was a beautiful but haughty noblewoman from the Free City of Lys, rumored to be far older than she appeared and heavily involved in the dark arts. She was the last of Aegon IV's mistresses and died giving birth to her only daughter, Shiera Seastar.",
+      "tags": ["Lady", "Mistress", "Lysene"]
+    },
+    "es": {
+      "name": "Serenei of Lys",
+      "aliases": ["Dulce Serenei"],
+      "titles": ["Dama"],
+      "era": "Los Grandes Bastardos",
+      "biography": "Serenei era una noble hermosa pero altiva de la Ciudad Libre de Lys, de quien se rumoreaba que era mucho mayor de lo que parecía y que estaba muy involucrada en las artes oscuras. Fue la última de las amantes de Aegon IV y murió dando a luz a su única hija, Shiera Estrella de Mar.",
+      "tags": ["Dama", "Amante", "Lysena"]
+    }
+  },
+  {
+    "id": "daeron_2",
+    "birth_year": 153,
+    "death_year": 209,
+    "parents": ["aegon_4", "naerys_targaryen"],
+    "spouses": ["myriah_martell"],
+    "children": [
+      "baelor_breakspear",
+      "aerys_1",
+      "rhaegel_targaryen",
+      "maekar_1"
+    ],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Daeron II Targaryen",
+      "aliases": ["Daeron the Good"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms"
+      ],
+      "era": "The Blackfyre Rebellions",
+      "biography": "Daeron II, known as Daeron the Good, was the trueborn son of Aegon IV and Naerys. A thoughtful, scholarly king, he surrounded himself with maesters and finally brought Dorne into the Seven Kingdoms through peaceful marriage alliances. However, rumors spread by his enemies claimed he was actually the bastard son of Aemon the Dragonknight. This, combined with his father legitimizing the Great Bastards on his deathbed, led to the devastating First Blackfyre Rebellion.",
+      "tags": ["King", "Peacemaker"]
+    },
+    "es": {
+      "name": "Daeron II Targaryen",
+      "aliases": ["Daeron el Bueno"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos"
+      ],
+      "era": "Las Rebeliones Fuegonegro",
+      "biography": "Daeron II, conocido como Daeron el Bueno, fue el hijo legítimo de Aegon IV y Naerys. Un rey reflexivo y erudito, se rodeó de maestres y finalmente unió Dorne a los Siete Reinos mediante alianzas matrimoniales pacíficas. Sin embargo, los rumores difundidos por sus enemigos afirmaban que en realidad era el hijo bastardo de Aemon el Caballero Dragón. Esto, combinado con el hecho de que su padre legitimó a los Grandes Bastardos en su lecho de muerte, condujo a la devastadora Primera Rebelión Fuegonegro.",
+      "tags": ["Rey", "Pacificador"]
+    }
+  },
+  {
+    "id": "daemon_blackfyre",
+    "birth_year": 170,
+    "death_year": 196,
+    "parents": ["aegon_4", "daena_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Daemon Blackfyre",
+      "aliases": ["The Black Dragon"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men (Claimant)"
+      ],
+      "era": "The Blackfyre Rebellions",
+      "biography": "Born to Princess Daena the Defiant, Daemon was legitimized by his father, Aegon IV, who gifted him the conqueror's Valyrian steel sword, Blackfyre. Charismatic, impossibly handsome, and a warrior without peer, Daemon was convinced by his supporters to claim the Iron Throne over his half-brother Daeron. He founded House Blackfyre but was killed at the Battle of the Redgrass Field, pierced by arrows fired by his half-brother Bloodraven.",
+      "tags": ["Bastard", "Rebel", "Warrior"]
+    },
+    "es": {
+      "name": "Daemon Blackfyre",
+      "aliases": ["El Dragón Negro"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres (Pretendiente)"
+      ],
+      "era": "Las Rebeliones Fuegonegro",
+      "biography": "Nacido de la princesa Daena la Desafiante, Daemon fue legitimado por su padre, Aegon IV, quien le entregó la espada de acero valyrio del conquistador, Fuegonegro. Carismático, increíblemente apuesto y un guerrero sin igual, Daemon fue convencido por sus partidarios para reclamar el Trono de Hierro por encima de su medio hermano Daeron. Fundó la Casa Fuegonegro pero fue asesinado en la Batalla del Campo de Hierbarroja, atravesado por las flechas disparadas por su medio hermano Cuervo de Sangre.",
+      "tags": ["Bastardo", "Rebelde", "Guerrero"]
+    }
+  },
+  {
+    "id": "aegor_rivers",
+    "birth_year": 172,
+    "death_year": 241,
+    "parents": ["aegon_4", "barba_bracken"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Aegor Rivers",
+      "aliases": ["Bittersteel"],
+      "titles": ["Ser", "Commander of the Golden Company"],
+      "era": "The Blackfyre Rebellions",
+      "biography": "Aegor Rivers, known as Bittersteel, was a fierce, angry warrior who harbored a lifelong hatred for his half-brother Bloodraven. He heavily pushed Daemon Blackfyre into rebellion. After Daemon's death at the Redgrass Field, Bittersteel fled to Essos, taking the sword Blackfyre with him, and founded the legendary mercenary group, the Golden Company. He spent his entire life trying to put a Blackfyre on the Iron Throne.",
+      "tags": ["Bastard", "Rebel", "Commander"]
+    },
+    "es": {
+      "name": "Aegor Rivers",
+      "aliases": ["Aceroamargo"],
+      "titles": ["Ser", "Comandante de la Compañía Dorada"],
+      "era": "Las Rebeliones Fuegonegro",
+      "biography": "Aegor Ríos, conocido como Aceroamargo, fue un guerrero feroz y colérico que albergó un odio de por vida hacia su medio hermano Cuervo de Sangre. Empujó fuertemente a Daemon Fuegonegro a la rebelión. Tras la muerte de Daemon en el Campo de Hierbarroja, Aceroamargo huyó a Essos, llevándose consigo la espada Fuegonegro, y fundó el legendario grupo mercenario, la Compañía Dorada. Pasó toda su vida intentando poner a un Fuegonegro en el Trono de Hierro.",
+      "tags": ["Bastardo", "Rebelde", "Comandante"]
+    }
+  },
+  {
+    "id": "brynden_rivers",
+    "birth_year": 175,
+    "death_year": 252,
+    "parents": ["aegon_4", "melissa_blackwood"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Brynden Rivers",
+      "aliases": ["Bloodraven", "Lord Bloodraven", "The Three-Eyed Raven"],
+      "titles": ["Hand of the King", "Lord Commander of the Night's Watch"],
+      "era": "The Blackfyre Rebellions",
+      "biography": "An albino with a wine-stain birthmark on his face, Brynden Rivers was a feared and brilliant spymaster. Wielding the Valyrian steel sword Dark Sister, he remained fiercely loyal to the Targaryen crown, crushing multiple Blackfyre Rebellions (often ruthlessly). 'How many eyes does Lord Bloodraven have? A thousand eyes, and one.' He later served as Lord Commander of the Night's Watch before disappearing beyond the Wall, eventually becoming the legendary greenseer known as the Three-Eyed Raven.",
+      "tags": ["Bastard", "Hand of the King", "Spymaster", "Sorcerer"]
+    },
+    "es": {
+      "name": "Brynden Rivers",
+      "aliases": [
+        "Cuervo de Sangre",
+        "Lord Cuervo de Sangre",
+        "El Cuervo de Tres Ojos"
+      ],
+      "titles": ["Mano del Rey", "Lord Comandante de la Guardia de la Noche"],
+      "era": "Las Rebeliones Fuegonegro",
+      "biography": "Un albino con una marca de nacimiento color vino en el rostro, Brynden Ríos fue un temido y brillante maestro de espías. Blandiendo la espada de acero valyrio Hermana Oscura, se mantuvo ferozmente leal a la corona Targaryen, aplastando múltiples Rebeliones Fuegonegro (a menudo de manera despiadada). '¿Cuántos ojos tiene Lord Cuervo de Sangre? Mil ojos, y uno más.' Más tarde sirvió como Lord Comandante de la Guardia de la Noche antes de desaparecer más allá del Muro, convirtiéndose finalmente en el legendario verdevidente conocido como el Cuervo de Tres Ojos.",
+      "tags": ["Bastardo", "Mano del Rey", "Maestro de Espías", "Hechicero"]
+    }
+  },
+  {
+    "id": "shiera_seastar",
+    "birth_year": 178,
+    "death_year": null,
+    "parents": ["aegon_4", "serenei_lys"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Shiera Seastar",
+      "aliases": [],
+      "titles": ["Lady"],
+      "era": "The Blackfyre Rebellions",
+      "biography": "Considered the most beautiful woman in the world, Shiera possessed mismatched eyes—one dark blue, the other bright green. Like her mother, she was widely reputed to practice dark magic. She was famously the great, unrequited obsession of Brynden Rivers, taking him as a lover but refusing his dozens of marriage proposals. Bittersteel also fiercely desired her, further fueling the lifelong hatred between the two half-brothers.",
+      "tags": ["Bastard", "Sorceress"]
+    },
+    "es": {
+      "name": "Shiera Seastar",
+      "aliases": [],
+      "titles": ["Dama"],
+      "era": "Las Rebeliones Fuegonegro",
+      "biography": "Considerada la mujer más hermosa del mundo, Shiera poseía ojos de distinto color: uno azul oscuro y el otro verde brillante. Al igual que su madre, tenía la reputación de practicar magia oscura. Fue la gran obsesión no correspondida de Brynden Ríos, tomándolo como amante pero rechazando sus docenas de propuestas de matrimonio. Aceroamargo también la deseaba ferozmente, lo que alimentó aún más el odio de por vida entre los dos medio hermanos.",
+      "tags": ["Bastarda", "Hechicera"]
+    }
+  },
+  {
+    "id": "myriah_martell",
+    "birth_year": 150,
+    "death_year": null,
+    "parents": [],
+    "spouses": ["daeron_2"],
+    "children": [
+      "baelor_breakspear",
+      "aerys_1",
+      "rhaegel_targaryen",
+      "maekar_1"
+    ],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Myriah Martell",
+      "aliases": [],
+      "titles": ["Queen of the Seven Kingdoms", "Princess of Dorne"],
+      "era": "The Blackfyre Rebellions",
+      "biography": "Princess Myriah Martell was a Dornish noblewoman whose marriage to Daeron II officially brought Dorne into the Seven Kingdoms peacefully, accomplishing what two centuries of war and dragons could not. She brought many Dornish customs and lords to the Red Keep, which alienated some of the more traditional lords of Westeros and inadvertently helped fuel the First Blackfyre Rebellion.",
+      "tags": ["Queen", "Dornish"]
+    },
+    "es": {
+      "name": "Myriah Martell",
+      "aliases": [],
+      "titles": ["Reina de los Siete Reinos", "Princesa de Dorne"],
+      "era": "Las Rebeliones Fuegonegro",
+      "biography": "La princesa Myriah Martell era una noble dorniense cuyo matrimonio con Daeron II unió oficialmente a Dorne a los Siete Reinos de manera pacífica, logrando lo que dos siglos de guerra y dragones no pudieron. Llevó muchas costumbres y señores dornienses a la Fortaleza Roja, lo que alienó a algunos de los señores más tradicionales de Poniente e inadvertidamente ayudó a alimentar la Primera Rebelión Fuegonegro.",
+      "tags": ["Reina", "Dorniense"]
+    }
+  },
+  {
+    "id": "baelor_breakspear",
+    "birth_year": 170,
+    "death_year": 209,
+    "parents": ["daeron_2", "myriah_martell"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Baelor Targaryen",
+      "aliases": ["Baelor Breakspear"],
+      "titles": [
+        "Prince of Dragonstone",
+        "Hand of the King",
+        "Protector of the Realm"
+      ],
+      "era": "The Blackfyre Rebellions",
+      "biography": "Baelor Breakspear was the eldest son and heir of Daeron II. Dark-haired and looking more Dornish than Valyrian, he was a brilliant military commander who famously smashed the rebel lines at the Redgrass Field alongside his half-uncle Maekar, ending the First Blackfyre Rebellion. Widely considered one of the greatest kings Westeros never had, he was accidentally killed by his own brother, Maekar, during a Trial of Seven at the Tourney at Ashford Meadow.",
+      "tags": ["Prince", "Hand of the King", "Warrior", "Heir"]
+    },
+    "es": {
+      "name": "Baelor Targaryen",
+      "aliases": ["Baelor Rompelanzas"],
+      "titles": [
+        "Príncipe de Rocadragón",
+        "Mano del Rey",
+        "Protector del Reino"
+      ],
+      "era": "Las Rebeliones Fuegonegro",
+      "biography": "Baelor Rompelanzas fue el hijo mayor y heredero de Daeron II. De cabello oscuro y aspecto más dorniense que valyrio, fue un brillante comandante militar que famosamente destrozó las líneas rebeldes en el Campo de Hierbarroja junto a su medio tío Maekar, poniendo fin a la Primera Rebelión Fuegonegro. Considerado ampliamente como uno de los mejores reyes que Poniente nunca tuvo, fue asesinado accidentalmente por su propio hermano, Maekar, durante un Juicio de Siete en el Torneo de Vado Ceniza.",
+      "tags": ["Príncipe", "Mano del Rey", "Guerrero", "Heredero"]
+    }
+  },
+  {
+    "id": "aerys_1",
+    "birth_year": 173,
+    "death_year": 221,
+    "parents": ["daeron_2", "myriah_martell"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Aerys I Targaryen",
+      "aliases": [],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms"
+      ],
+      "era": "The Tales of Dunk and Egg",
+      "biography": "Aerys I was a bookish, scholarly man who took the throne after his father and two nephews died in the Great Spring Sickness. He showed no interest in ruling or in his wife, preferring to study ancient prophecies and arcane texts. He left the actual governance of the realm entirely to his Hand of the King, Brynden 'Bloodraven' Rivers, during a time marked by a terrible drought and the Second and Third Blackfyre Rebellions.",
+      "tags": ["King", "Scholar"]
+    },
+    "es": {
+      "name": "Aerys I Targaryen",
+      "aliases": [],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos"
+      ],
+      "era": "Los Cuentos de Dunk y Egg",
+      "biography": "Aerys I era un hombre estudioso y erudito que subió al trono después de que su padre y dos sobrinos murieran en la Gran Epidemia Primaveral. No mostró interés en gobernar ni en su esposa, prefiriendo estudiar antiguas profecías y textos arcanos. Dejó el gobierno del reino por completo en manos de su Mano del Rey, Brynden 'Cuervo de Sangre' Ríos, durante una época marcada por una terrible sequía y la Segunda y Tercera Rebelión Fuegonegro.",
+      "tags": ["Rey", "Erudito"]
+    }
+  },
+  {
+    "id": "rhaegel_targaryen",
+    "birth_year": 174,
+    "death_year": 215,
+    "parents": ["daeron_2", "myriah_martell"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Rhaegel Targaryen",
+      "aliases": [],
+      "titles": ["Prince"],
+      "era": "The Tales of Dunk and Egg",
+      "biography": "Prince Rhaegel was the third son of Daeron II. He was known to be sweet but suffered from severe mental instability, famously prone to dancing naked through the halls of the Red Keep. He died choking on a lamprey pie before he could inherit the throne.",
+      "tags": ["Prince"]
+    },
+    "es": {
+      "name": "Rhaegel Targaryen",
+      "aliases": [],
+      "titles": ["Príncipe"],
+      "era": "Los Cuentos de Dunk y Egg",
+      "biography": "El príncipe Rhaegel fue el tercer hijo de Daeron II. Era conocido por ser dulce pero sufría de una grave inestabilidad mental, siendo famoso por su propensión a bailar desnudo por los pasillos de la Fortaleza Roja. Murió atragantado con un pastel de lamprea antes de poder heredar el trono.",
+      "tags": ["Príncipe"]
+    }
+  },
+  {
+    "id": "maekar_1",
+    "birth_year": 176,
+    "death_year": 233,
+    "parents": ["daeron_2", "myriah_martell"],
+    "spouses": ["dyanna_dayne"],
+    "children": [
+      "daeron_drunken",
+      "aerion_brightflame",
+      "aemon_maester",
+      "daella_targaryen_2",
+      "aegon_5",
+      "rhae_targaryen"
+    ],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Maekar I Targaryen",
+      "aliases": ["Maekar the Anvil"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms"
+      ],
+      "era": "The Tales of Dunk and Egg",
+      "biography": "Maekar I was a harsh, brooding, and fiercely capable battle commander. He felt constantly overshadowed by his brilliant older brother, Baelor, and his scholarly brother, Aerys. The tragedy of accidentally killing Baelor in a tourney melee haunted him for the rest of his life. Despite his abrasive nature, he was a capable king who died gloriously in battle during the Peake Uprising.",
+      "tags": ["King", "Warrior"]
+    },
+    "es": {
+      "name": "Maekar I Targaryen",
+      "aliases": ["Maekar el Yunque"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos"
+      ],
+      "era": "Los Cuentos de Dunk y Egg",
+      "biography": "Maekar I fue un comandante de batalla severo, melancólico y ferozmente capaz. Se sintió constantemente eclipsado por su brillante hermano mayor, Baelor, y su erudito hermano, Aerys. La tragedia de matar accidentalmente a Baelor en el combate cuerpo a cuerpo de un torneo lo persiguió por el resto de su vida. A pesar de su naturaleza áspera, fue un rey capaz que murió gloriosamente en batalla durante el Levantamiento Peake.",
+      "tags": ["Rey", "Guerrero"]
+    }
+  },
+  {
+    "id": "dyanna_dayne",
+    "birth_year": 178,
+    "death_year": 209,
+    "parents": [],
+    "spouses": ["maekar_1"],
+    "children": [
+      "daeron_drunken",
+      "aerion_brightflame",
+      "aemon_maester",
+      "daella_targaryen_2",
+      "aegon_5",
+      "rhae_targaryen"
+    ],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Dyanna Dayne",
+      "aliases": [],
+      "titles": ["Lady"],
+      "era": "The Tales of Dunk and Egg",
+      "biography": "Lady Dyanna Dayne of Starfall was the beloved wife of Maekar I. She died before her husband ever took the Iron Throne, but she gave him four sons and two daughters. Her death deeply affected Maekar, contributing to his harsh and brooding demeanor in his later years.",
+      "tags": ["Lady", "Dornish"]
+    },
+    "es": {
+      "name": "Dyanna Dayne",
+      "aliases": [],
+      "titles": ["Dama"],
+      "era": "Los Cuentos de Dunk y Egg",
+      "biography": "Lady Dyanna Dayne de Campoestrella fue la amada esposa de Maekar I. Murió antes de que su esposo tomara el Trono de Hierro, pero le dio cuatro hijos y dos hijas. Su muerte afectó profundamente a Maekar, contribuyendo a su comportamiento severo y melancólico en sus últimos años.",
+      "tags": ["Dama", "Dorniense"]
+    }
+  },
+  {
+    "id": "daeron_drunken",
+    "birth_year": 190,
+    "death_year": 222,
+    "parents": ["maekar_1", "dyanna_dayne"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Daeron Targaryen",
+      "aliases": ["Daeron the Drunken"],
+      "titles": ["Prince"],
+      "era": "The Tales of Dunk and Egg",
+      "biography": "The eldest son of Maekar I, Prince Daeron was a profound disappointment to his martial father. He lacked any skill at arms and preferred to drink himself into a stupor. However, his drinking was a coping mechanism to deal with his 'dragon dreams'—prophetic, terrifying visions of the future. He famously dreamed of a great red dragon falling on Ser Duncan the Tall. He died of a pox caught from a prostitute.",
+      "tags": ["Prince", "Dreamer"]
+    },
+    "es": {
+      "name": "Daeron Targaryen",
+      "aliases": ["Daeron el Borracho"],
+      "titles": ["Príncipe"],
+      "era": "Los Cuentos de Dunk y Egg",
+      "biography": "El hijo mayor de Maekar I, el príncipe Daeron fue una profunda decepción para su marcial padre. Carecía de habilidad con las armas y prefería beber hasta el estupor. Sin embargo, su afición a la bebida era un mecanismo de defensa para lidiar con sus 'sueños de dragón': visiones proféticas y aterradoras del futuro. Famosamente soñó con un gran dragón rojo cayendo sobre Ser Duncan el Alto. Murió de una viruela contagiada por una prostituta.",
+      "tags": ["Príncipe", "Soñador"]
+    }
+  },
+  {
+    "id": "aerion_brightflame",
+    "birth_year": 192,
+    "death_year": 232,
+    "parents": ["maekar_1", "dyanna_dayne"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Aerion Targaryen",
+      "aliases": ["Aerion Brightflame", "Aerion the Monstrous"],
+      "titles": ["Prince"],
+      "era": "The Tales of Dunk and Egg",
+      "biography": "Aerion Brightflame was a vain, cruel, and fiercely arrogant prince who believed himself to be a dragon in human form. His malicious actions at the Tourney at Ashford Meadow caused the Trial of Seven that resulted in the death of Baelor Breakspear. Exiled to Lys for a time, he later died in agony after drinking a cup of wildfire, genuinely believing it would transform him into a living dragon.",
+      "tags": ["Prince", "Cruel", "Madness"]
+    },
+    "es": {
+      "name": "Aerion Targaryen",
+      "aliases": ["Aerion Llamabrillante", "Aerion el Monstruoso"],
+      "titles": ["Príncipe"],
+      "era": "Los Cuentos de Dunk y Egg",
+      "biography": "Aerion Llamabrillante fue un príncipe vanidoso, cruel y ferozmente arrogante que creía ser un dragón en forma humana. Sus acciones maliciosas en el Torneo de Vado Ceniza provocaron el Juicio de Siete que resultó en la muerte de Baelor Rompelanzas. Exiliado a Lys por un tiempo, más tarde murió en agonía tras beber una copa de fuego valyrio, creyendo genuinamente que lo transformaría en un dragón vivo.",
+      "tags": ["Príncipe", "Cruel", "Locura"]
+    }
+  },
+  {
+    "id": "aemon_maester",
+    "birth_year": 198,
+    "death_year": 300,
+    "parents": ["maekar_1", "dyanna_dayne"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Aemon Targaryen",
+      "aliases": ["Maester Aemon"],
+      "titles": ["Prince", "Maester of the Citadel"],
+      "era": "The Tales of Dunk and Egg",
+      "biography": "Prince Aemon was the third son of Maekar I. Sent to the Citadel to forge a maester's chain, he became a brilliant scholar. When the throne was offered to him following his father's death, he quietly refused it, yielding to his younger brother Aegon. To ensure he could never be used in a plot against Aegon, Aemon joined the Night's Watch. He lived to be 102 years old, serving as the maester of Castle Black and becoming one of the last living Targaryens in Westeros.",
+      "tags": ["Prince", "Maester", "Night's Watch"]
+    },
+    "es": {
+      "name": "Aemon Targaryen",
+      "aliases": ["Maestre Aemon"],
+      "titles": ["Príncipe", "Maestre de la Ciudadela"],
+      "era": "Los Cuentos de Dunk y Egg",
+      "biography": "El príncipe Aemon fue el tercer hijo de Maekar I. Enviado a la Ciudadela para forjar una cadena de maestre, se convirtió en un brillante erudito. Cuando se le ofreció el trono tras la muerte de su padre, lo rechazó en silencio, cediéndolo a su hermano menor Aegon. Para asegurarse de que nunca pudiera ser utilizado en un complot contra Aegon, Aemon se unió a la Guardia de la Noche. Vivió hasta los 102 años, sirviendo como maestre del Castillo Negro y convirtiéndose en uno de los últimos Targaryen vivos en Poniente.",
+      "tags": ["Príncipe", "Maestre", "Guardia de la Noche"]
+    }
+  },
+  {
+    "id": "daella_targaryen_2",
+    "birth_year": 199,
+    "death_year": null,
+    "parents": ["maekar_1", "dyanna_dayne"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Daella Targaryen",
+      "aliases": [],
+      "titles": ["Princess"],
+      "era": "The Tales of Dunk and Egg",
+      "biography": "Princess Daella was the eldest daughter of Maekar I. She was once betrothed to her brother Aegon, but the marriage never occurred.",
+      "tags": ["Princess"]
+    },
+    "es": {
+      "name": "Daella Targaryen",
+      "aliases": [],
+      "titles": ["Princesa"],
+      "era": "Los Cuentos de Dunk y Egg",
+      "biography": "La princesa Daella fue la hija mayor de Maekar I. Estuvo prometida en matrimonio con su hermano Aegon, pero la boda nunca se llevó a cabo.",
+      "tags": ["Princesa"]
+    }
+  },
+  {
+    "id": "aegon_5",
+    "birth_year": 200,
+    "death_year": 259,
+    "parents": ["maekar_1", "dyanna_dayne"],
+    "spouses": ["betha_blackwood"],
+    "children": [
+      "duncan_small",
+      "jaehaerys_2",
+      "shaera_targaryen",
+      "daeron_targaryen_3",
+      "rhaelle_targaryen"
+    ],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Aegon V Targaryen",
+      "aliases": ["Aegon the Unlikely", "Egg"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms"
+      ],
+      "era": "The Tales of Dunk and Egg",
+      "biography": "As the fourth son of a fourth son, Aegon was never expected to rule, earning him the title 'Aegon the Unlikely.' In his youth, he squired for the hedge knight Ser Duncan the Tall under the alias 'Egg,' traveling among the smallfolk and learning their hardships. As king, he enacted numerous reforms to protect the common people, angering the high lords. He perished in the Tragedy at Summerhall, a catastrophic fire allegedly caused by a failed attempt to hatch dragon eggs.",
+      "tags": ["King", "Reformer"]
+    },
+    "es": {
+      "name": "Aegon V Targaryen",
+      "aliases": ["Aegon el Improbable", "Egg"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos"
+      ],
+      "era": "Los Cuentos de Dunk y Egg",
+      "biography": "Como cuarto hijo de un cuarto hijo, nunca se esperó que Aegon gobernara, ganándose el título de 'Aegon el Improbable'. En su juventud, fue escudero del caballero errante Ser Duncan el Alto bajo el alias 'Egg', viajando entre el pueblo llano y aprendiendo sus dificultades. Como rey, promulgó numerosas reformas para proteger a la gente común, enfureciendo a los altos señores. Pereció en la Tragedia de Refugio Estival, un incendio catastrófico presuntamente causado por un intento fallido de eclosionar huevos de dragón.",
+      "tags": ["Rey", "Reformador"]
+    }
+  },
+  {
+    "id": "rhae_targaryen",
+    "birth_year": 201,
+    "death_year": null,
+    "parents": ["maekar_1", "dyanna_dayne"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Rhae Targaryen",
+      "aliases": [],
+      "titles": ["Princess"],
+      "era": "The Tales of Dunk and Egg",
+      "biography": "Princess Rhae was the youngest child of Maekar I. As a girl, she famously slipped a love potion into her brother Aegon's drink so he would marry her instead of Daella.",
+      "tags": ["Princess"]
+    },
+    "es": {
+      "name": "Rhae Targaryen",
+      "aliases": [],
+      "titles": ["Princesa"],
+      "era": "Los Cuentos de Dunk y Egg",
+      "biography": "La princesa Rhae fue la hija menor de Maekar I. De niña, es famosa por deslizar una poción de amor en la bebida de su hermano Aegon para que se casara con ella en lugar de con Daella.",
+      "tags": ["Princesa"]
+    }
+  },
+  {
+    "id": "betha_blackwood",
+    "birth_year": 201,
+    "death_year": 259,
+    "parents": [],
+    "spouses": ["aegon_5"],
+    "children": [
+      "duncan_small",
+      "jaehaerys_2",
+      "shaera_targaryen",
+      "daeron_targaryen_3",
+      "rhaelle_targaryen"
+    ],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Betha Blackwood",
+      "aliases": ["Black Betha"],
+      "titles": ["Queen of the Seven Kingdoms"],
+      "era": "The Tales of Dunk and Egg",
+      "biography": "Betha Blackwood, known as Black Betha for her dark hair and fierce temperament, married Aegon V for love before he was ever expected to become king. When Aegon took the throne, they attempted to arrange advantageous marriages for their children to secure support for Aegon's pro-smallfolk reforms. However, all of her children inherited her stubbornness, and almost all of them broke their betrothals to marry for love instead, causing massive political fallout.",
+      "tags": ["Queen", "Blackwood"]
+    },
+    "es": {
+      "name": "Betha Blackwood",
+      "aliases": ["Betha la Negra"],
+      "titles": ["Reina de los Siete Reinos"],
+      "era": "Los Cuentos de Dunk y Egg",
+      "biography": "Betha Blackwood, conocida como Betha la Negra por su cabello oscuro y su temperamento feroz, se casó con Aegon V por amor antes de que se esperara que él se convirtiera en rey. Cuando Aegon subió al trono, intentaron organizar matrimonios ventajosos para sus hijos a fin de asegurar el apoyo a las reformas pro-pueblo de Aegon. Sin embargo, todos sus hijos heredaron su terquedad, y casi todos rompieron sus compromisos para casarse por amor en su lugar, causando repercusiones políticas masivas.",
+      "tags": ["Reina", "Blackwood"]
+    }
+  },
+  {
+    "id": "duncan_small",
+    "birth_year": 220,
+    "death_year": 259,
+    "parents": ["aegon_5", "betha_blackwood"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Duncan Targaryen",
+      "aliases": ["Duncan the Small", "The Prince of Dragonflies"],
+      "titles": ["Prince of Dragonstone", "Heir to the Iron Throne"],
+      "era": "The Tragedy at Summerhall",
+      "biography": "Named after his father's dearest friend, Ser Duncan the Tall, Prince Duncan was the heir to the Iron Throne. He caused a massive rebellion when he broke his betrothal to a daughter of House Baratheon to marry a mysterious, impoverished peasant woman known as Jenny of Oldstones. Forced to choose between the throne and the woman he loved, he abdicated his claim, earning the nickname 'The Prince of Dragonflies.' He perished alongside his father in the flames of Summerhall.",
+      "tags": ["Prince", "Heir"]
+    },
+    "es": {
+      "name": "Duncan Targaryen",
+      "aliases": ["Duncan el Pequeño", "El Príncipe de las Libélulas"],
+      "titles": ["Príncipe de Rocadragón", "Heredero del Trono de Hierro"],
+      "era": "La Tragedia de Refugio Estival",
+      "biography": "Nombrado en honor al mejor amigo de su padre, Ser Duncan el Alto, el príncipe Duncan era el heredero al Trono de Hierro. Causó una rebelión masiva cuando rompió su compromiso con una hija de la Casa Baratheon para casarse con una misteriosa y empobrecida campesina conocida como Jenny de Piedrasviejas. Obligado a elegir entre el trono y la mujer que amaba, abdicó a su derecho, ganándose el apodo de 'El Príncipe de las Libélulas'. Pereció junto a su padre en las llamas de Refugio Estival.",
+      "tags": ["Príncipe", "Heredero"]
+    }
+  },
+  {
+    "id": "jaehaerys_2",
+    "birth_year": 225,
+    "death_year": 262,
+    "parents": ["aegon_5", "betha_blackwood"],
+    "spouses": ["shaera_targaryen"],
+    "children": ["aerys_2", "rhaella_targaryen"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Jaehaerys II Targaryen",
+      "aliases": [],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms"
+      ],
+      "era": "The Pre-Rebellion Era",
+      "biography": "Following his older brother's abdication, Jaehaerys became heir to the throne. Sickly and frail, he was considered weak by many lords, but he possessed a sharp mind and firm resolve. Defying his parents' arranged marriages, he eloped with his sister Shaera. Though his reign was brief—lasting only three years before he died of a sudden illness—he successfully commanded the War of the Ninepenny Kings, putting an end to the Blackfyre threat forever.",
+      "tags": ["King", "Frail"]
+    },
+    "es": {
+      "name": "Jaehaerys II Targaryen",
+      "aliases": [],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos"
+      ],
+      "era": "La Era Pre-Rebelión",
+      "biography": "Tras la abdicación de su hermano mayor, Jaehaerys se convirtió en heredero al trono. Enfermizo y frágil, fue considerado débil por muchos señores, pero poseía una mente aguda y una firme resolución. Desafiando los matrimonios arreglados por sus padres, se fugó con su hermana Shaera. Aunque su reinado fue breve —durando solo tres años antes de morir de una repentina enfermedad—, comandó con éxito la Guerra de los Reyes Nuevepeniques, poniendo fin a la amenaza Fuegonegro para siempre.",
+      "tags": ["Rey", "Frágil"]
+    }
+  },
+  {
+    "id": "shaera_targaryen",
+    "birth_year": 226,
+    "death_year": null,
+    "parents": ["aegon_5", "betha_blackwood"],
+    "spouses": ["jaehaerys_2"],
+    "children": ["aerys_2", "rhaella_targaryen"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Shaera Targaryen",
+      "aliases": [],
+      "titles": ["Queen of the Seven Kingdoms"],
+      "era": "The Pre-Rebellion Era",
+      "biography": "Princess Shaera was betrothed to Luthor Tyrell (the future Lord of Highgarden) to secure the Reach. However, she was deeply in love with her older brother, Jaehaerys. Taking advantage of the chaos caused by their brother Duncan's scandalous marriage, Shaera and Jaehaerys eloped and secretly consummated their union, forcing King Aegon to accept it. She became queen, but outlived her husband only briefly.",
+      "tags": ["Queen"]
+    },
+    "es": {
+      "name": "Shaera Targaryen",
+      "aliases": [],
+      "titles": ["Reina de los Siete Reinos"],
+      "era": "La Era Pre-Rebelión",
+      "biography": "La princesa Shaera estaba prometida a Luthor Tyrell (el futuro Señor de Altojardín) para asegurar el Dominio. Sin embargo, estaba profundamente enamorada de su hermano mayor, Jaehaerys. Aprovechando el caos causado por el escandaloso matrimonio de su hermano Duncan, Shaera y Jaehaerys se fugaron y consumaron su unión en secreto, obligando al rey Aegon a aceptarla. Se convirtió en reina, pero sobrevivió a su marido solo brevemente.",
+      "tags": ["Reina"]
+    }
+  },
+  {
+    "id": "daeron_targaryen_3",
+    "birth_year": 228,
+    "death_year": 251,
+    "parents": ["aegon_5", "betha_blackwood"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Daeron Targaryen",
+      "aliases": [],
+      "titles": ["Prince"],
+      "era": "The Tragedy at Summerhall",
+      "biography": "Prince Daeron was betrothed to Olenna Redwyne (later known as the Queen of Thorns). However, continuing the trend of his siblings, he broke the betrothal. Daeron had no interest in women, preferring the company of his close friend and companion, Ser Jeremy Norridge. Daeron proved himself a capable warrior but died in battle alongside Jeremy while putting down a rebellion in the kingdom, breaking his father's heart.",
+      "tags": ["Prince", "Warrior"]
+    },
+    "es": {
+      "name": "Daeron Targaryen",
+      "aliases": [],
+      "titles": ["Príncipe"],
+      "era": "La Tragedia de Refugio Estival",
+      "biography": "El príncipe Daeron estaba prometido a Olenna Redwyne (más tarde conocida como la Reina de las Espinas). Sin embargo, continuando la tendencia de sus hermanos, rompió el compromiso. Daeron no tenía interés en las mujeres, prefiriendo la compañía de su íntimo amigo y compañero, Ser Jeremy Norridge. Daeron demostró ser un guerrero capaz, pero murió en batalla junto a Jeremy mientras aplastaban una rebelión en el reino, rompiendo el corazón de su padre.",
+      "tags": ["Príncipe", "Guerrero"]
+    }
+  },
+  {
+    "id": "rhaelle_targaryen",
+    "birth_year": 231,
+    "death_year": null,
+    "parents": ["aegon_5", "betha_blackwood"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Rhaelle Targaryen",
+      "aliases": [],
+      "titles": ["Princess", "Lady of Storm's End"],
+      "era": "The Pre-Rebellion Era",
+      "biography": "When her eldest brother Duncan broke his betrothal to House Baratheon, Lord Lyonel Baratheon declared a bloody rebellion. To secure peace after the Laughing Storm was defeated in a trial by combat, King Aegon V promised his youngest daughter, Rhaelle, to Lyonel's heir, Ormund Baratheon. Rhaelle is the grandmother of Robert, Stannis, and Renly Baratheon, giving them their eventual blood claim to the Iron Throne.",
+      "tags": ["Princess", "Lady"]
+    },
+    "es": {
+      "name": "Rhaelle Targaryen",
+      "aliases": [],
+      "titles": ["Princesa", "Señora de Bastión de Tormentas"],
+      "era": "La Era Pre-Rebelión",
+      "biography": "Cuando su hermano mayor Duncan rompió su compromiso con la Casa Baratheon, Lord Lyonel Baratheon declaró una sangrienta rebelión. Para asegurar la paz después de que la Tormenta que Ríe fuera derrotada en un juicio por combate, el rey Aegon V prometió a su hija menor, Rhaelle, al heredero de Lyonel, Ormund Baratheon. Rhaelle es la abuela de Robert, Stannis y Renly Baratheon, otorgándoles su eventual reclamo de sangre al Trono de Hierro.",
+      "tags": ["Princesa", "Dama"]
+    }
+  },
+  {
+    "id": "aerys_2",
+    "birth_year": 244,
+    "death_year": 283,
+    "parents": ["jaehaerys_2", "shaera_targaryen"],
+    "spouses": ["rhaella_targaryen"],
+    "children": ["rhaegar_targaryen", "viserys_3", "daenerys_targaryen_2"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Aerys II Targaryen",
+      "aliases": ["The Mad King", "King Scab"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men",
+        "Lord of the Seven Kingdoms"
+      ],
+      "era": "Robert's Rebellion",
+      "biography": "Aerys II began his reign as a charming and ambitious young king, promising to be one of the greatest monarchs in history. Over the years, fueled by the traumatic Defiance of Duskendale and his wife's repeated miscarriages, he descended into severe paranoia and madness. He developed an obsession with wildfire, burning his perceived enemies alive. His horrific execution of Lord Rickard and Brandon Stark ignited Robert's Rebellion. As his city fell, he ordered King's Landing to be burned to the ground but was killed by his own Kingsguard, Ser Jaime Lannister.",
+      "tags": ["King", "Madness"]
+    },
+    "es": {
+      "name": "Aerys II Targaryen",
+      "aliases": ["El Rey Loco", "El Rey Costra"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres",
+        "Señor de los Siete Reinos"
+      ],
+      "era": "La Rebelión de Robert",
+      "biography": "Aerys II comenzó su reinado como un joven rey encantador y ambicioso, prometiendo ser uno de los monarcas más grandes de la historia. Con los años, impulsado por el traumático Desafío de Valle Oscuro y los repetidos abortos espontáneos de su esposa, descendió hacia una severa paranoia y locura. Desarrolló una obsesión con el fuego valyrio, quemando vivos a sus supuestos enemigos. Su horrenda ejecución de Lord Rickard y Brandon Stark encendió la Rebelión de Robert. Cuando su ciudad cayó, ordenó que Desembarco del Rey fuera quemada hasta los cimientos, pero fue asesinado por su propio Guardia Real, Ser Jaime Lannister.",
+      "tags": ["Rey", "Locura"]
+    }
+  },
+  {
+    "id": "rhaella_targaryen",
+    "birth_year": 245,
+    "death_year": 284,
+    "parents": ["jaehaerys_2", "shaera_targaryen"],
+    "spouses": ["aerys_2"],
+    "children": ["rhaegar_targaryen", "viserys_3", "daenerys_targaryen_2"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Rhaella Targaryen",
+      "aliases": [],
+      "titles": ["Queen of the Seven Kingdoms"],
+      "era": "Robert's Rebellion",
+      "biography": "Princess Rhaella was forced to marry her brother Aerys after their father heard a prophecy that the Prince That Was Promised would be born of their line. Her marriage was a living nightmare. She suffered immense abuse at the hands of her increasingly mad husband, alongside the heartbreak of enduring multiple miscarriages, stillbirths, and infant deaths. Shortly after the death of her eldest son Rhaegar and the fall of the dynasty, she fled to the island of Dragonstone. She died there giving birth to her only daughter, Daenerys, during the worst summer storm in living memory.",
+      "tags": ["Queen", "Tragic"]
+    },
+    "es": {
+      "name": "Rhaella Targaryen",
+      "aliases": [],
+      "titles": ["Reina de los Siete Reinos"],
+      "era": "La Rebelión de Robert",
+      "biography": "La princesa Rhaella fue obligada a casarse con su hermano Aerys después de que su padre escuchara la profecía de que el Príncipe que fue Prometido nacería de su linaje. Su matrimonio fue una pesadilla en vida. Sufrió inmensos abusos a manos de su cada vez más loco esposo, además de la angustia de soportar múltiples abortos espontáneos, mortinatos y muertes infantiles. Poco después de la muerte de su hijo mayor Rhaegar y la caída de la dinastía, huyó a la isla de Rocadragón. Murió allí dando a luz a su única hija, Daenerys, durante la peor tormenta de verano que se recordaba.",
+      "tags": ["Reina", "Trágica"]
+    }
+  },
+  {
+    "id": "rhaegar_targaryen",
+    "birth_year": 259,
+    "death_year": 283,
+    "parents": ["aerys_2", "rhaella_targaryen"],
+    "spouses": ["elia_martell", "lyanna_stark"],
+    "children": ["rhaenys_targaryen_3", "aegon_6", "jon_snow"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Rhaegar Targaryen",
+      "aliases": ["The Last Dragon", "The Silver Prince"],
+      "titles": ["Prince of Dragonstone", "Heir to the Iron Throne"],
+      "era": "Robert's Rebellion",
+      "biography": "Prince Rhaegar was born on the day of the Tragedy at Summerhall, a shadow that hung over his entire life. Deeply melancholic, bookish, and exceptionally gifted at everything he attempted, he was obsessed with the prophecy of the Prince That Was Promised. His crowning of Lyanna Stark as the Queen of Love and Beauty at Harrenhal, and his subsequent disappearance with her, sparked Robert's Rebellion. He was killed by Robert Baratheon in single combat at the Battle of the Trident, his ruby-studded armor shattering into the river.",
+      "tags": ["Prince", "Heir", "Prophecy"]
+    },
+    "es": {
+      "name": "Rhaegar Targaryen",
+      "aliases": ["El Último Dragón", "El Príncipe de Plata"],
+      "titles": ["Príncipe de Rocadragón", "Heredero del Trono de Hierro"],
+      "era": "La Rebelión de Robert",
+      "biography": "El príncipe Rhaegar nació el día de la Tragedia de Refugio Estival, una sombra que se cernió sobre toda su vida. Profundamente melancólico, estudioso y excepcionalmente dotado en todo lo que intentaba, estaba obsesionado con la profecía del Príncipe que fue Prometido. Su coronación de Lyanna Stark como la Reina del Amor y la Belleza en Harrenhal, y su posterior desaparición con ella, desató la Rebelión de Robert. Fue asesinado por Robert Baratheon en combate singular en la Batalla del Tridente; su armadura incrustada de rubíes se hizo añicos y cayó al río.",
+      "tags": ["Príncipe", "Heredero", "Profecía"]
+    }
+  },
+  {
+    "id": "elia_martell",
+    "birth_year": 256,
+    "death_year": 283,
+    "parents": [],
+    "spouses": ["rhaegar_targaryen"],
+    "children": ["rhaenys_targaryen_3", "aegon_6"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Elia Martell",
+      "aliases": [],
+      "titles": ["Princess of Dorne"],
+      "era": "Robert's Rebellion",
+      "biography": "Princess Elia Martell of Dorne was married to Prince Rhaegar in a highly political match. Frail and of delicate health, she was bedridden for months after giving birth to their two children, leading maesters to declare she could bear no more. During the Sack of King's Landing, she was brutally raped and murdered by Ser Gregor Clegane (The Mountain) on the orders of Tywin Lannister, an atrocity that bred deep hatred between Dorne and the Iron Throne.",
+      "tags": ["Princess", "Dornish", "Tragic"]
+    },
+    "es": {
+      "name": "Elia Martell",
+      "aliases": [],
+      "titles": ["Princesa de Dorne"],
+      "era": "La Rebelión de Robert",
+      "biography": "La princesa Elia Martell de Dorne se casó con el príncipe Rhaegar en un matrimonio altamente político. Frágil y de salud delicada, estuvo postrada en cama durante meses tras dar a luz a sus dos hijos, lo que llevó a los maestres a declarar que no podría tener más. Durante el Saqueo de Desembarco del Rey, fue brutalmente violada y asesinada por Ser Gregor Clegane (La Montaña) bajo las órdenes de Tywin Lannister, una atrocidad que engendró un profundo odio entre Dorne y el Trono de Hierro.",
+      "tags": ["Princesa", "Dorniense", "Trágica"]
+    }
+  },
+  {
+    "id": "viserys_3",
+    "birth_year": 276,
+    "death_year": 298,
+    "parents": ["aerys_2", "rhaella_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Viserys Targaryen",
+      "aliases": ["The Beggar King", "The Cart King"],
+      "titles": [
+        "King of the Andals, the Rhoynar, and the First Men (Claimant)"
+      ],
+      "era": "A Game of Thrones",
+      "biography": "Viserys was just a boy when Robert's Rebellion forced him and his pregnant mother to flee to Dragonstone. After her death, he and his newborn sister Daenerys spent years living in exile across the Free Cities, relying on the charity of wealthy magisters. Bitter, deeply arrogant, and prone to 'waking the dragon' (his temper), he sold his sister to Khal Drogo in exchange for an army. Impatient and insulting, he was killed when Drogo poured a pot of molten gold over his head, giving him his 'golden crown.'",
+      "tags": ["Prince", "Exile", "The Beggar King"]
+    },
+    "es": {
+      "name": "Viserys Targaryen",
+      "aliases": ["El Rey Mendigo", "El Rey Carretilla"],
+      "titles": [
+        "Rey de los Ándalos, los Rhoynar y los Primeros Hombres (Pretendiente)"
+      ],
+      "era": "Juego de Tronos",
+      "biography": "Viserys era solo un niño cuando la Rebelión de Robert lo obligó a él y a su madre embarazada a huir a Rocadragón. Tras la muerte de ella, él y su hermana recién nacida, Daenerys, pasaron años viviendo en el exilio por las Ciudades Libres, dependiendo de la caridad de magísteres adinerados. Amargado, profundamente arrogante y propenso a 'despertar al dragón' (su temperamento), vendió a su hermana a Khal Drogo a cambio de un ejército. Impaciente e insultante, fue asesinado cuando Drogo le vertió una olla de oro fundido sobre la cabeza, dándole su 'corona de oro'.",
+      "tags": ["Príncipe", "Exiliado", "El Rey Mendigo"]
+    }
+  },
+  {
+    "id": "daenerys_targaryen_2",
+    "birth_year": 284,
+    "death_year": null,
+    "parents": ["aerys_2", "rhaella_targaryen"],
+    "spouses": [],
+    "children": [],
+    "dragon": "Drogon",
+    "image": null,
+    "en": {
+      "name": "Daenerys Targaryen",
+      "aliases": [
+        "Daenerys Stormborn",
+        "Mother of Dragons",
+        "Khaleesi",
+        "The Unburnt",
+        "Breaker of Chains"
+      ],
+      "titles": [
+        "Queen of the Andals, the Rhoynar, and the First Men (Claimant)",
+        "Khaleesi of the Great Grass Sea",
+        "Queen of Meereen"
+      ],
+      "era": "A Game of Thrones",
+      "biography": "Daenerys Stormborn is the youngest child of Aerys II, born amidst a massive tempest on Dragonstone. Raised in exile and abused by her brother, she was sold to Khal Drogo but rose to become a powerful Khaleesi. Miraculously surviving Drogo's funeral pyre, she hatched three petrified dragon eggs—Drogon, Rhaegal, and Viserion—bringing magic back into the world. Believing it is her destiny to break the wheel and reclaim the Iron Throne, she sets out to conquer Slaver's Bay and eventually Westeros.",
+      "tags": ["Queen", "Dragonrider", "Mother of Dragons"]
+    },
+    "es": {
+      "name": "Daenerys Targaryen",
+      "aliases": [
+        "Daenerys de la Tormenta",
+        "Madre de Dragones",
+        "Khaleesi",
+        "La que no Arde",
+        "Rompedora de Cadenas"
+      ],
+      "titles": [
+        "Reina de los Ándalos, los Rhoynar y los Primeros Hombres (Pretendiente)",
+        "Khaleesi del Gran Mar de Hierba",
+        "Reina de Meereen"
+      ],
+      "era": "Juego de Tronos",
+      "biography": "Daenerys de la Tormenta es la hija menor de Aerys II, nacida en medio de una enorme tempestad en Rocadragón. Criada en el exilio y abusada por su hermano, fue vendida a Khal Drogo pero se alzó hasta convertirse en una poderosa Khaleesi. Sobreviviendo milagrosamente a la pira funeraria de Drogo, eclosionó tres huevos de dragón petrificados —Drogon, Rhaegal y Viserion—, devolviendo la magia al mundo. Creyendo que es su destino romper la rueda y reclamar el Trono de Hierro, se dispone a conquistar la Bahía de los Esclavos y, eventualmente, Poniente.",
+      "tags": ["Reina", "Jinete de Dragón", "Madre de Dragones"]
+    }
+  },
+  {
+    "id": "lyanna_stark",
+    "birth_year": 267,
+    "death_year": 283,
+    "parents": [],
+    "spouses": ["rhaegar_targaryen"],
+    "children": ["jon_snow"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Lyanna Stark",
+      "aliases": ["The She-Wolf"],
+      "titles": ["Lady of Winterfell"],
+      "era": "Robert's Rebellion",
+      "biography": "Lady Lyanna Stark of Winterfell was the wild, fiercely independent younger sister of Ned Stark and betrothed to Robert Baratheon. Named the Queen of Love and Beauty by Prince Rhaegar at the Tourney at Harrenhal, the two secretly ran away together and wed in Dorne. Her disappearance ignited Robert's Rebellion. She died in a bed of blood at the Tower of Joy giving birth to her son, making her brother Ned swear a promise to protect the child from Robert's wrath.",
+      "tags": ["Lady", "Stark", "Secret Marriage"]
+    },
+    "es": {
+      "name": "Lyanna Stark",
+      "aliases": ["La Loba"],
+      "titles": ["Señora de Invernalia"],
+      "era": "La Rebelión de Robert",
+      "biography": "Lady Lyanna Stark de Invernalia era la hermana menor, salvaje y ferozmente independiente, de Ned Stark, y estaba prometida a Robert Baratheon. Nombrada la Reina del Amor y la Belleza por el príncipe Rhaegar en el Torneo de Harrenhal, los dos se fugaron en secreto y se casaron en Dorne. Su desaparición encendió la Rebelión de Robert. Murió en un lecho de sangre en la Torre de la Alegría al dar a luz a su hijo, haciendo que su hermano Ned jurara proteger al niño de la ira de Robert.",
+      "tags": ["Dama", "Stark", "Matrimonio Secreto"]
+    }
+  },
+  {
+    "id": "rhaenys_targaryen_3",
+    "birth_year": 280,
+    "death_year": 283,
+    "parents": ["rhaegar_targaryen", "elia_martell"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Rhaenys Targaryen",
+      "aliases": [],
+      "titles": ["Princess"],
+      "era": "Robert's Rebellion",
+      "biography": "Princess Rhaenys was the young daughter of Rhaegar and Elia. During the Sack of King's Landing, the terrified little girl hid under her father's bed, but she was found and dragged out by Ser Amory Lorch, who stabbed her half a hundred times.",
+      "tags": ["Princess", "Infant"]
+    },
+    "es": {
+      "name": "Rhaenys Targaryen",
+      "aliases": [],
+      "titles": ["Princesa"],
+      "era": "La Rebelión de Robert",
+      "biography": "La princesa Rhaenys era la joven hija de Rhaegar y Elia. Durante el Saqueo de Desembarco del Rey, la aterrorizada niña se escondió debajo de la cama de su padre, pero fue encontrada y arrastrada por Ser Amory Lorch, quien la apuñaló medio centenar de veces.",
+      "tags": ["Princesa", "Infante"]
+    }
+  },
+  {
+    "id": "aegon_6",
+    "birth_year": 281,
+    "death_year": 283,
+    "parents": ["rhaegar_targaryen", "elia_martell"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Aegon Targaryen",
+      "aliases": ["Young Griff"],
+      "titles": ["Prince"],
+      "era": "Robert's Rebellion",
+      "biography": "Prince Aegon was the infant son of Rhaegar and Elia. During the Sack of King's Landing, Ser Gregor Clegane dashed the baby's head against a wall. (However, persistent rumors—and the arrival of a young man calling himself 'Young Griff'—suggest Varys may have swapped the baby with a peasant child, smuggling the true heir across the Narrow Sea).",
+      "tags": ["Prince", "Infant"]
+    },
+    "es": {
+      "name": "Aegon Targaryen",
+      "aliases": ["Joven Griff"],
+      "titles": ["Príncipe"],
+      "era": "La Rebelión de Robert",
+      "biography": "El príncipe Aegon era el hijo pequeño de Rhaegar y Elia. Durante el Saqueo de Desembarco del Rey, Ser Gregor Clegane estrelló la cabeza del bebé contra una pared. (Sin embargo, persistentes rumores —y la llegada de un joven que se hace llamar 'Joven Griff'— sugieren que Varys pudo haber cambiado al bebé por el hijo de un campesino, sacando de contrabando al verdadero heredero a través del Mar Angosto).",
+      "tags": ["Príncipe", "Infante"]
+    }
+  },
+  {
+    "id": "jon_snow",
+    "birth_year": 283,
+    "death_year": null,
+    "parents": ["rhaegar_targaryen", "lyanna_stark"],
+    "spouses": [],
+    "children": [],
+    "dragon": "Rhaegal",
+    "image": null,
+    "en": {
+      "name": "Jon Snow (Aegon Targaryen)",
+      "aliases": ["The White Wolf", "The Bastard of Winterfell", "Lord Snow"],
+      "titles": ["Lord Commander of the Night's Watch", "King in the North"],
+      "era": "A Game of Thrones",
+      "biography": "Raised as Ned Stark's illegitimate bastard to protect him from Robert Baratheon, Jon Snow joined the Night's Watch and rose to become Lord Commander, defending the realm against the White Walkers. He is secretly Aegon Targaryen, the trueborn son of Rhaegar Targaryen and Lyanna Stark, making him the legitimate heir to the Iron Throne. A reluctant leader who values honor above ambition, he unites the Wildlings and Northern lords to face the Great War.",
+      "tags": ["Prince", "King", "Night's Watch", "Dragonrider", "Secret Heir"]
+    },
+    "es": {
+      "name": "Jon Nieve (Aegon Targaryen)",
+      "aliases": ["El Lobo Blanco", "El Bastardo de Invernalia", "Lord Nieve"],
+      "titles": [
+        "Lord Comandante de la Guardia de la Noche",
+        "Rey en el Norte"
+      ],
+      "era": "Juego de Tronos",
+      "biography": "Criado como el hijo bastardo e ilegítimo de Ned Stark para protegerlo de Robert Baratheon, Jon Nieve se unió a la Guardia de la Noche y ascendió hasta convertirse en Lord Comandante, defendiendo el reino contra los Caminantes Blancos. Es secretamente Aegon Targaryen, el hijo legítimo de Rhaegar Targaryen y Lyanna Stark, lo que lo convierte en el heredero legítimo al Trono de Hierro. Un líder reacio que valora el honor por encima de la ambición, une a los Salvajes y a los señores del Norte para enfrentarse a la Gran Guerra.",
+      "tags": [
+        "Príncipe",
+        "Rey",
+        "Guardia de la Noche",
+        "Jinete de Dragón",
+        "Heredero Secreto"
+      ]
+    }
+  }
+]

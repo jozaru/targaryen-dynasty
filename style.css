@@ -1,0 +1,356 @@
+/* --- Design System Variables --- */
+:root {
+  --bg-dark: #0d0d0d;
+  --bg-panel: #1a1a1a;
+  /* Updated for WCAG AA compliance (4.5:1 minimum contrast) */
+  --targaryen-red: #ff4d4d;
+  --blood-dark: #4a0000;
+  --valyrian-gold: #c5a059;
+  --text-main: #e0e0e0;
+  /* Brightened for better legibility on dark backgrounds */
+  --text-muted: #aaaaaa;
+  --font-heading: "Georgia", serif;
+  --font-body: "Helvetica Neue", Arial, sans-serif;
+}
+
+/* --- Base Reset --- */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden; /* Prevents scrollbars, D3 handles canvas panning */
+  background-color: var(--bg-dark);
+  color: var(--text-main);
+  font-family: var(--font-body);
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+/* --- Top Navigation Bar --- */
+.top-bar {
+  background-color: var(--bg-panel);
+  border-bottom: 2px solid var(--blood-dark);
+  padding: 0.8rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 10;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.7);
+  min-height: 60px; /* Changed from fixed height to min-height for safety */
+  flex-shrink: 0;
+  gap: 15px; /* Ensures space between logo and controls */
+}
+
+/* CRITICAL: Allow the logo container to shrink */
+.logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 0; /* The secret weapon for flexbox shrinking */
+  flex: 1 1 auto;
+}
+
+.logo h1 {
+  font-family: var(--font-heading);
+  color: var(--valyrian-gold);
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 1;
+  /* Truncate text elegantly */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0;
+}
+
+.logo span {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  display: block;
+  margin-top: 2px;
+  /* Truncate text elegantly */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Protect the controls from shrinking */
+.nav-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-shrink: 0; /* Prevents search/language from getting squished */
+}
+
+/* Search Bar Styling */
+#search-input {
+  background-color: var(--bg-dark);
+  color: var(--text-main);
+  border: 1px solid var(--valyrian-gold);
+  border-radius: 4px;
+  padding: 6px 12px;
+  font-family: var(--font-body);
+  font-size: 13px;
+  outline: none;
+  transition: all 0.3s ease;
+  width: 200px;
+}
+
+#search-input:focus {
+  border-color: var(--targaryen-red);
+  box-shadow: 0 0 8px rgba(197, 160, 89, 0.4);
+}
+
+/* Language Selector Dropdown */
+.language-selector {
+  position: relative;
+}
+
+#lang-select {
+  background-color: var(--bg-dark);
+  color: var(--valyrian-gold);
+  border: 1px solid var(--valyrian-gold);
+  border-radius: 4px;
+  padding: 6px 10px;
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+#lang-select:hover,
+#lang-select:focus {
+  background-color: #1a1a1a;
+  border-color: var(--targaryen-red);
+  box-shadow: 0 0 8px rgba(197, 160, 89, 0.4);
+}
+
+#lang-select option {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+/* --- Mobile Responsive Adjustments --- */
+@media (max-width: 600px) {
+  .top-bar {
+    padding: 10px;
+    gap: 8px;
+  }
+
+  .logo h1 {
+    font-size: 1.1rem; /* Shrink title slightly */
+  }
+
+  .logo span {
+    font-size: 0.65rem; /* Shrink subtitle slightly */
+  }
+
+  #search-input {
+    width: 120px; /* Make search bar smaller on mobile */
+  }
+}
+
+/* --- D3 Canvas Container --- */
+#canvas-container {
+  flex: 1;
+  width: 100%;
+  position: relative;
+  background: radial-gradient(circle at center, #222 0%, var(--bg-dark) 100%);
+  cursor: grab;
+  overflow: hidden;
+}
+
+#tree-canvas {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+#canvas-container:active {
+  cursor: grabbing;
+}
+
+/* --- Slide-out Biography Drawer --- */
+.drawer {
+  position: fixed;
+  top: 60px;
+  right: 0;
+  width: 400px;
+  max-width: 100%;
+  height: calc(100vh - 60px);
+  background-color: var(--bg-panel);
+  border-left: 2px solid var(--valyrian-gold);
+  box-shadow: -5px 0 25px rgba(0, 0, 0, 0.8);
+  transform: translateX(100%); /* Hidden by default */
+  transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  z-index: 20;
+  overflow-y: auto;
+}
+
+.drawer.open {
+  transform: translateX(0);
+}
+
+.close-btn {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.close-btn:hover {
+  color: var(--targaryen-red);
+}
+
+.drawer-content {
+  padding: 2.5rem 1.5rem 1.5rem 1.5rem;
+}
+
+.bio-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.avatar-placeholder {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto 1rem auto;
+  border-radius: 50%;
+  background: var(--bg-dark);
+  border: 3px solid var(--valyrian-gold);
+  box-shadow: 0 0 15px rgba(197, 160, 89, 0.2);
+  overflow: hidden;
+}
+
+.avatar-placeholder img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+#drawer-name {
+  font-family: var(--font-heading);
+  color: var(--text-main);
+  font-size: 1.5rem;
+  margin-bottom: 0.3rem;
+}
+
+#drawer-titles {
+  color: var(--valyrian-gold);
+  font-size: 0.85rem;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.bio-meta {
+  background: var(--bg-dark);
+  padding: 1rem;
+  border-radius: 6px;
+  border-left: 4px solid var(--targaryen-red);
+  margin-bottom: 1.5rem;
+}
+
+.meta-item {
+  margin-bottom: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.meta-item:last-child {
+  margin-bottom: 0;
+}
+
+.meta-label {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.meta-value {
+  color: var(--text-main);
+  font-size: 0.9rem;
+}
+
+.meta-value.dragon-name {
+  color: var(--targaryen-red);
+  font-weight: bold;
+}
+
+.bio-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.tag {
+  background: var(--blood-dark);
+  color: var(--text-main);
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-family: var(--font-heading);
+  border: 1px solid rgba(255, 77, 77, 0.3); /* Subtle border for better definition */
+}
+
+.bio-body {
+  line-height: 1.6;
+  color: #cccccc;
+  font-size: 0.9rem;
+}
+
+/* --- Footer / Diligence Statement --- */
+.app-footer {
+  background-color: var(--bg-panel);
+  border-top: 1px solid var(--blood-dark);
+  padding: 10px 20px;
+  flex-shrink: 0;
+  z-index: 10;
+  text-align: justify;
+}
+
+.app-footer p {
+  color: var(--text-muted);
+  font-size: 0.7rem;
+  line-height: 1.4;
+  margin: 0;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.app-footer strong {
+  color: var(--valyrian-gold);
+  font-family: var(--font-heading);
+  letter-spacing: 0.5px;
+}
+
+/* Hide or simplify on very small screens if needed */
+@media (max-width: 600px) {
+  .app-footer {
+    padding: 8px 12px;
+  }
+  .app-footer p {
+    font-size: 0.6rem;
+  }
+}

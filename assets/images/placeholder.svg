@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8a0303" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#1a1a1a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Dark background -->
+  <rect width="100" height="100" fill="#1a1a1a"/>
+  
+  <!-- Red radial glow -->
+  <circle cx="50" cy="50" r="45" fill="url(#glow)"/>
+  
+  <!-- Dragon Egg Silhouette -->
+  <ellipse cx="50" cy="55" rx="22" ry="32" fill="#0d0d0d" stroke="#c5a059" stroke-width="2"/>
+  
+  <!-- Egg Scales Detail -->
+  <path d="M33 45 Q50 55 67 45 M29 55 Q50 65 71 55 M35 65 Q50 75 65 65 M38 35 Q50 45 62 35" fill="none" stroke="#c5a059" stroke-width="1.5" opacity="0.5"/>
+</svg>
