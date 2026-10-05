@@ -2108,8 +2108,8 @@
     "birth_year": 170,
     "death_year": 209,
     "parents": ["daeron_2", "myriah_martell"],
-    "spouses": [],
-    "children": [],
+    "spouses": ["jena_dondarrion"],
+    "children": ["valarr_targaryen", "matarys_targaryen"],
     "dragon": null,
     "image": null,
     "en": {
@@ -2265,6 +2265,32 @@
       "era": "Los Cuentos de Dunk y Egg",
       "biography": "Lady Dyanna Dayne de Campoestrella fue la amada esposa de Maekar I. Murió antes de que su esposo tomara el Trono de Hierro, pero le dio cuatro hijos y dos hijas. Su muerte afectó profundamente a Maekar, contribuyendo a su comportamiento severo y melancólico en sus últimos años.",
       "tags": ["Dama", "Dorniense"]
+    }
+  },
+  {
+    "id": "jena_dondarrion",
+    "birth_year": 172,
+    "death_year": null,
+    "parents": [],
+    "spouses": ["baelor_breakspear"],
+    "children": ["valarr_targaryen", "matarys_targaryen"],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Jena Dondarrion",
+      "aliases": [],
+      "titles": ["Lady"],
+      "era": "The Blackfyre Rebellions",
+      "biography": "Lady Jena of House Dondarrion was the wife of Prince Baelor 'Breakspear' Targaryen. Together they had two sons, Valarr and Matarys.",
+      "tags": ["Lady", "Dondarrion"]
+    },
+    "es": {
+      "name": "Jena Dondarrion",
+      "aliases": [],
+      "titles": ["Dama"],
+      "era": "Las Rebeliones Fuegonegro",
+      "biography": "Lady Jena de la Casa Dondarrion fue la esposa del Príncipe Baelor 'Rompelanzas' Targaryen. Juntos tuvieron dos hijos, Valarr y Matarys.",
+      "tags": ["Dama", "Dondarrion"]
     }
   },
   {
@@ -2433,6 +2459,58 @@
       "era": "Los Cuentos de Dunk y Egg",
       "biography": "La princesa Rhae fue la hija menor de Maekar I. De niña, es famosa por deslizar una poción de amor en la bebida de su hermano Aegon para que se casara con ella en lugar de con Daella.",
       "tags": ["Princesa"]
+    }
+  },
+  {
+    "id": "valarr_targaryen",
+    "birth_year": 183,
+    "death_year": 209,
+    "parents": ["baelor_breakspear", "jena_dondarrion"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Valarr Targaryen",
+      "aliases": ["The Young Prince"],
+      "titles": ["Prince of Dragonstone"],
+      "era": "The Blackfyre Rebellions",
+      "biography": "Known as the Young Prince, Valarr was the eldest son of Baelor Breakspear and heir to the Iron Throne after his father's death. He was married to Kiera of Tyrosh but died childless in the Great Spring Sickness of 209 AC.",
+      "tags": ["Prince", "Heir"]
+    },
+    "es": {
+      "name": "Valarr Targaryen",
+      "aliases": ["El Príncipe Joven"],
+      "titles": ["Príncipe de Rocadragón"],
+      "era": "Las Rebeliones Fuegonegro",
+      "biography": "Conocido como el Príncipe Joven, Valarr era el hijo mayor de Baelor Rompelanzas y heredero al Trono de Hierro. Estuvo casado con Kiera de Tyrosh, pero murió sin descendencia en la Gran Epidemia Primaveral del 209 d.C.",
+      "tags": ["Príncipe", "Heredero"]
+    }
+  },
+  {
+    "id": "matarys_targaryen",
+    "birth_year": 184,
+    "death_year": 209,
+    "parents": ["baelor_breakspear", "jena_dondarrion"],
+    "spouses": [],
+    "children": [],
+    "dragon": null,
+    "image": null,
+    "en": {
+      "name": "Matarys Targaryen",
+      "aliases": ["The Even Younger Prince"],
+      "titles": ["Prince"],
+      "era": "The Blackfyre Rebellions",
+      "biography": "The second son of Baelor Breakspear and Jena Dondarrion. Matarys was known as the 'Even Younger Prince' in contrast to his older brother. He perished alongside his brother in the Great Spring Sickness.",
+      "tags": ["Prince"]
+    },
+    "es": {
+      "name": "Matarys Targaryen",
+      "aliases": ["El Príncipe Aún Más Joven"],
+      "titles": ["Príncipe"],
+      "era": "Las Rebeliones Fuegonegro",
+      "biography": "El segundo hijo de Baelor Rompelanzas y Jena Dondarrion. Matarys era conocido como el 'Príncipe Aún Más Joven' en contraste con su hermano mayor. Pereció junto a su hermano en la Gran Epidemia Primaveral.",
+      "tags": ["Príncipe"]
     }
   },
   {
